@@ -4,7 +4,7 @@ import requests
 from boto3.dynamodb.conditions import Key
 
 
-dynamodb = boto3.resource('dynamodb', region_name='us-east-1',aws_access_key_id='',aws_secret_access_key='')
+dynamodb = boto3.resource('dynamodb', region_name='',aws_access_key_id='',aws_secret_access_key='')
 
 table = dynamodb.Table('Restaurants_Draft2')
 
