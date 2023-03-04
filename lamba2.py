@@ -93,7 +93,7 @@ def Message(restaurantDeets,message):
        Second = restaurantDeets[1]['Item']['name']["S"]
         SecondAddress = restaurantDeets[1]['Item']['address']["S"]
        
-        msg = 'Hello! Here are my {0} restaurant suggestions for {1} people at {2} on {3} : 1. {4}, located at {5}, 2. {6}, located at {7}. Enjoy your meal!'.format(cuisine,People,time,date,First,FirstAddress,resTwoName,SecondAddress)
+        msg = 'Hello! Here are my {0} restaurant suggestions for {1} people at {2} on {3} : 1. {4}, located at {5}, 2. {6}, located at {7}. Enjoy your meal!'.format(cuisine,People,time,date,First,FirstAddress,Second,SecondAddress)
         print(msg)
         return msg    
 
