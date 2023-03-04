@@ -1,0 +1,2124 @@
+{"index" : { "_index":"indexnew","_id":"1"}}
+{"RestaurantID":"ypqK8DWM8Bcs43YveSJnNw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"2"}}
+{"RestaurantID":"QPEzLkO35OTYijFhs8d7-w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"3"}}
+{"RestaurantID":"uVfOB37NyYEGRs5FITM-nQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"4"}}
+{"RestaurantID":"1y900NbcusWxwVb01RSdcg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"5"}}
+{"RestaurantID":"PqqnNrUtU7XTKQvUM4cyqQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"6"}}
+{"RestaurantID":"a4kI51RZulQXA8cvaH8hGw","Cuisine":"hotdogs"}
+{"index" : { "_index":"indexnew","_id":"7"}}
+{"RestaurantID":"lj1dgpWHiymVFNWp3vzC1A","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"8"}}
+{"RestaurantID":"noBCTbD1Ylf5QR7PXy-rkA","Cuisine":"himalayan"}
+{"index" : { "_index":"indexnew","_id":"9"}}
+{"RestaurantID":"TCJrcryBkI6eg2HYThoiKg","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"10"}}
+{"RestaurantID":"SzH79XjUPoTYBnE3dybRsw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"11"}}
+{"RestaurantID":"Ll9BIQhilhmpBaiKcRC6bg","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"12"}}
+{"RestaurantID":"KEEXuHCYhsQJ-zpJhu98bA","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"13"}}
+{"RestaurantID":"S4Euw4DYSqeU4KcteFXqHg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"14"}}
+{"RestaurantID":"IiLLntICUim7YREkIBU7lA","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"15"}}
+{"RestaurantID":"8JDwcklaawqYprHg0c9aIA","Cuisine":"comfortfood"}
+{"index" : { "_index":"indexnew","_id":"16"}}
+{"RestaurantID":"c1kKAH9XMPNeaBhvnIP0FQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"17"}}
+{"RestaurantID":"RjXFwonRyu20O2WW9YBKfw","Cuisine":"modern_european"}
+{"index" : { "_index":"indexnew","_id":"18"}}
+{"RestaurantID":"jy6AHLVJ7cVJZ4Fl_ds3Qg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"19"}}
+{"RestaurantID":"U8bfgo6nmR6g6RbERK8ECg","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"20"}}
+{"RestaurantID":"UUkSQzJVsbOla6Os9NZT9Q","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"21"}}
+{"RestaurantID":"s5N-w7EPY3DA68id5qycyA","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"22"}}
+{"RestaurantID":"agCuWjaUJ8xBO_PDDQRiGw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"23"}}
+{"RestaurantID":"mfHF5q5e00Oy3GhqxUQiYg","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"24"}}
+{"RestaurantID":"Er9SlDRdxit2qVHwfg-lsw","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"25"}}
+{"RestaurantID":"uSS5cbcb_KLoXE5yzwjI6w","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"26"}}
+{"RestaurantID":"0Tvwk0hvgaY0QVIsZGTZKQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"27"}}
+{"RestaurantID":"OLi1M1D3r9DDv8kbfQV5SA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"28"}}
+{"RestaurantID":"QVXLgfB4J2j1BjeSgmoXgw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"29"}}
+{"RestaurantID":"UC3n_0vZ5zI1fvi7UzNZAg","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"30"}}
+{"RestaurantID":"LY0e-LsmtoyYysOcSLJ23g","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"31"}}
+{"RestaurantID":"k8GFfCXO2FIIJIo0ICYSRA","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"32"}}
+{"RestaurantID":"WgKr_bw7KRAdblaLrWw5Lg","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"33"}}
+{"RestaurantID":"bQORrPVUnR4FyBUGuwugqQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"34"}}
+{"RestaurantID":"RThvexVhZQ8KA6JAr0UkCQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"35"}}
+{"RestaurantID":"A8jRnZGiMJiMpfHt8qKV3w","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"36"}}
+{"RestaurantID":"Vf2aEBNegL6VfJ01ieP6qg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"37"}}
+{"RestaurantID":"kawTi2VXBNhbvNxQxc0YeQ","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"38"}}
+{"RestaurantID":"NbKATjp2MoQ4TvKKwu9fdA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"39"}}
+{"RestaurantID":"Jx3xWeqYnyWOIhSlAlggTA","Cuisine":"bbq"}
+{"index" : { "_index":"indexnew","_id":"40"}}
+{"RestaurantID":"s3jou_L_LVYGkNHiuhjlew","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"41"}}
+{"RestaurantID":"OiDe6PDz20QX9RjsfXklNA","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"42"}}
+{"RestaurantID":"veku2cg2qaV-7MxwhOMBmg","Cuisine":"pubs"}
+{"index" : { "_index":"indexnew","_id":"43"}}
+{"RestaurantID":"__EvomQ2tE1NtkWn32WEXg","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"44"}}
+{"RestaurantID":"XkQayHGmVaHmgucEyTkYKw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"45"}}
+{"RestaurantID":"XoDR_T-ZKYJtZgCocEDcyA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"46"}}
+{"RestaurantID":"KLNAzOpBuDspEttRsRszSA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"47"}}
+{"RestaurantID":"FhPAf4w6t0KsujSQBHH_-w","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"48"}}
+{"RestaurantID":"nxTEuWKzkK1tCF4LrhFSUQ","Cuisine":"filipino"}
+{"index" : { "_index":"indexnew","_id":"49"}}
+{"RestaurantID":"YqHszHxkqaC6azgrOsRO1Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"50"}}
+{"RestaurantID":"f_OiLWqldSmNy1MAvtWlPQ","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"51"}}
+{"RestaurantID":"zo4JHfD2nWPUiqgsgDOaHQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"52"}}
+{"RestaurantID":"cTE0e96GYzet799EJeStoQ","Cuisine":"georgian"}
+{"index" : { "_index":"indexnew","_id":"53"}}
+{"RestaurantID":"4KHjnRNvrkKHchEznhlnSA","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"54"}}
+{"RestaurantID":"krZunArZFdp_2G1arwVuVw","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"55"}}
+{"RestaurantID":"FZpm4_fbd6P984foOUejWg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"56"}}
+{"RestaurantID":"X4hEgOBOLTYFhlWO-gAFxQ","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"57"}}
+{"RestaurantID":"jcBulPysUgM7FWZoWiqNSA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"58"}}
+{"RestaurantID":"pjoUbRK5kKkXKHuAsvDkjQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"59"}}
+{"RestaurantID":"ry7XCoXXxS0DxRmzZLFybw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"60"}}
+{"RestaurantID":"_NS1hEZ0LPwaTG4R6jxgnw","Cuisine":"german"}
+{"index" : { "_index":"indexnew","_id":"61"}}
+{"RestaurantID":"GCAQmtRdNhqVit5KGJ46Qg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"62"}}
+{"RestaurantID":"KakiWGOfm_h5rEqOyKD7zQ","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"63"}}
+{"RestaurantID":"BdvUnXh0cI_r0znZOEPyHQ","Cuisine":"buffets"}
+{"index" : { "_index":"indexnew","_id":"64"}}
+{"RestaurantID":"M-AcAh1C_eQfhzGk6ZmOSQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"65"}}
+{"RestaurantID":"GlTdgd8780RNXLvz8bTmFg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"66"}}
+{"RestaurantID":"oJ6fy4fBv_3WskxH4NfNBg","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"67"}}
+{"RestaurantID":"G4qZvheX74VwYvek7I8iQg","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"68"}}
+{"RestaurantID":"hVWEXOdZ8x0xEunx3k6LXA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"69"}}
+{"RestaurantID":"WZynqsGjqQLc_T8R80_-7g","Cuisine":"tex-mex"}
+{"index" : { "_index":"indexnew","_id":"70"}}
+{"RestaurantID":"3eBV6HwWcdHzJW3sUH-2hw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"71"}}
+{"RestaurantID":"ki1QfVkOweIcoJtERPJoew","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"72"}}
+{"RestaurantID":"L9N9O2u_M9Daby9_myK4Yg","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"73"}}
+{"RestaurantID":"6lUAvciN0rwYUvhssqw57g","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"74"}}
+{"RestaurantID":"1QBkR2jKEMYj5ACMUIx_bA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"75"}}
+{"RestaurantID":"9FjUxZp8qT9-x1I8KVtRWQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"76"}}
+{"RestaurantID":"d8zSYpArh4oXpxeJWNA4Pg","Cuisine":"vegetarian"}
+{"index" : { "_index":"indexnew","_id":"77"}}
+{"RestaurantID":"wDLHOgux_G8Y82Y6D9rSog","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"78"}}
+{"RestaurantID":"BKMCAYb9EAivUm3p-vrC9w","Cuisine":"laotian"}
+{"index" : { "_index":"indexnew","_id":"79"}}
+{"RestaurantID":"vmoRGfd2xIAN-Ty0kiK_lA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"80"}}
+{"RestaurantID":"2LcsDUTlvovnFz-SEcSJTQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"81"}}
+{"RestaurantID":"l4fwf8VwAokv3MWT45Ab7g","Cuisine":"ethiopian"}
+{"index" : { "_index":"indexnew","_id":"82"}}
+{"RestaurantID":"lQKKBtdp7No9HJ_tW6PuAQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"83"}}
+{"RestaurantID":"ZFaIpks0AmQKdFvqYbj0QQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"84"}}
+{"RestaurantID":"rPKXTHDgtGI4XEo2HuVpow","Cuisine":"australian"}
+{"index" : { "_index":"indexnew","_id":"85"}}
+{"RestaurantID":"7Bb_IDWV_zJqpBjAvxuBIA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"86"}}
+{"RestaurantID":"4LoroCI3VtQ17dyQa75-Rg","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"87"}}
+{"RestaurantID":"MOwB9YYd-Ko6nVgSB-ltQw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"88"}}
+{"RestaurantID":"AYBRN8pKB8_ZfcCks17OmQ","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"89"}}
+{"RestaurantID":"mnwegBAAuq1l2w6uMRt-OA","Cuisine":"belgian"}
+{"index" : { "_index":"indexnew","_id":"90"}}
+{"RestaurantID":"NUdrJYB7GHRuwVVETSDIFQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"91"}}
+{"RestaurantID":"Py_oBQpNR8kMI3GbH-71Yg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"92"}}
+{"RestaurantID":"Ag5Xij0JhXl6cTbqI0D9Dw","Cuisine":"restaurants"}
+{"index" : { "_index":"indexnew","_id":"93"}}
+{"RestaurantID":"qIOAlXCCYrwN0VxEEH-Tmw","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"94"}}
+{"RestaurantID":"an8TuHRg0e3cgiAE705ZDA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"95"}}
+{"RestaurantID":"zV1_EFMN4VY7Rxpv7P-ajg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"96"}}
+{"RestaurantID":"wjz2lLfX413dmiAlkcGbpQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"97"}}
+{"RestaurantID":"3QIFBLKp2Z9zA-PXlUEQlg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"98"}}
+{"RestaurantID":"ddKmJRZ3D1iS-gbZq03OWQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"99"}}
+{"RestaurantID":"D5bDIe51iMmf62A7hjgXxw","Cuisine":"restaurants"}
+{"index" : { "_index":"indexnew","_id":"100"}}
+{"RestaurantID":"_LJFf9YqpYxvExTvVxb7Rw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"101"}}
+{"RestaurantID":"6CvgH8fTq9nouY2UBdioWg","Cuisine":"desserts"}
+{"index" : { "_index":"indexnew","_id":"102"}}
+{"RestaurantID":"GHjdnl9511tGOTZh4R7TEg","Cuisine":"foodstands"}
+{"index" : { "_index":"indexnew","_id":"103"}}
+{"RestaurantID":"1ozuYD1HTa4u2F_NR9uUJg","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"104"}}
+{"RestaurantID":"ElngKkPciE61tzzPgoYFhQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"105"}}
+{"RestaurantID":"16heVvLqYfLpl8mC1RN3Bg","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"106"}}
+{"RestaurantID":"V7lXZKBDzScDeGB8JmnzSA","Cuisine":"delis"}
+{"index" : { "_index":"indexnew","_id":"107"}}
+{"RestaurantID":"4taegd-dJm0xGJOmqG5DtQ","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"108"}}
+{"RestaurantID":"nAcVK-Y1_ojsRF_04o-x-A","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"109"}}
+{"RestaurantID":"GG72AwlaBM90YdLvRJliFg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"110"}}
+{"RestaurantID":"w9I5sGHkwOyLe1yFQ0XBeg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"111"}}
+{"RestaurantID":"_7_u6U5uwhDkVi7JJakyGA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"112"}}
+{"RestaurantID":"JXhs2xAn5wgzf_mnWewkxQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"113"}}
+{"RestaurantID":"tuhlWtnjoOn8C6NTUCnbPg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"114"}}
+{"RestaurantID":"479rycCXZojMT9S0cl8Oxg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"115"}}
+{"RestaurantID":"JnFV_qz7uWbLTY80K89J7Q","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"116"}}
+{"RestaurantID":"eT39RKlQ8i5Z4ml0ZwUK-Q","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"117"}}
+{"RestaurantID":"6ECcDYsRgmfv0eKXk-c11Q","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"118"}}
+{"RestaurantID":"lMajMTw_y2EqTfIyC4q2JQ","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"119"}}
+{"RestaurantID":"uL709qg0IGe4KsNZk_AjxQ","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"120"}}
+{"RestaurantID":"1vAMfzO6i89lDayBT1zlLA","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"121"}}
+{"RestaurantID":"9yc2V6zNpLG58uPV_ykBog","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"122"}}
+{"RestaurantID":"_zGsfwGAY8ZTob_mIFAM-w","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"123"}}
+{"RestaurantID":"vLsTPg42rkgN5rUpNfg1OA","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"124"}}
+{"RestaurantID":"JrVz85x20SmqGiCjtzFBjg","Cuisine":"chickenshop"}
+{"index" : { "_index":"indexnew","_id":"125"}}
+{"RestaurantID":"5gxupTdlGXl_gLd7RBzphg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"126"}}
+{"RestaurantID":"w0muQDL21sXLI4JmMxvnzQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"127"}}
+{"RestaurantID":"Cz6It2NB_QBXCjnlsWGZSA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"128"}}
+{"RestaurantID":"2u8T56A4qu-MjeuT-v7s_g","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"129"}}
+{"RestaurantID":"lYuebxgzj4UYsKuUpAlr0w","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"130"}}
+{"RestaurantID":"nhez4xxvwwYIQEN2Vrj9mQ","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"131"}}
+{"RestaurantID":"wRHUJ69-f4CiV5BRY72mUg","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"132"}}
+{"RestaurantID":"k_zlryLtGZIS5QElKY8P2A","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"133"}}
+{"RestaurantID":"NCnOkzbyfzDltnBnJySfzw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"134"}}
+{"RestaurantID":"XBWO26QblInZGftnSDD94A","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"135"}}
+{"RestaurantID":"RlorYZBccaVctvq0zF2_nA","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"136"}}
+{"RestaurantID":"gXnC_aZR09BvqEQKGKFjBg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"137"}}
+{"RestaurantID":"vVVmHacu2YAxKfpIjhfd1g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"138"}}
+{"RestaurantID":"FiZg1Gnc6f0Tyk5cHNTMDw","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"139"}}
+{"RestaurantID":"zQkjDxo8oDVGVj9cpTpUig","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"140"}}
+{"RestaurantID":"BUsaAXmPnewLUHztu8iBUA","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"141"}}
+{"RestaurantID":"2YkqGzOldh-gcSSFkvP44Q","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"142"}}
+{"RestaurantID":"AlI7c_m9flexz49nzgam2g","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"143"}}
+{"RestaurantID":"r1QcTb4XA1t1gmni8qMBLw","Cuisine":"bagels"}
+{"index" : { "_index":"indexnew","_id":"144"}}
+{"RestaurantID":"iS5UhBr3RuXQntsAH2XMNA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"145"}}
+{"RestaurantID":"oTkzgr7hzOAdlP99Auj3GQ","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"146"}}
+{"RestaurantID":"m1cJLpDN4B-_0hGgPfe5OA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"147"}}
+{"RestaurantID":"bL2lVltPHfCeCabS51-pxQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"148"}}
+{"RestaurantID":"KBW0EP-prQBhkqqGJCxmXg","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"149"}}
+{"RestaurantID":"6YxjANE2V7n8TehK79C9wg","Cuisine":"taiwanese"}
+{"index" : { "_index":"indexnew","_id":"150"}}
+{"RestaurantID":"dskDbpvA0hI_7RjtoL6IKA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"151"}}
+{"RestaurantID":"icb_B-WaQm_T38MpQHsLcA","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"152"}}
+{"RestaurantID":"mvnxV9bn53vb9kJ0DujQLQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"153"}}
+{"RestaurantID":"dgGeBcV4oanNupGpzq8xIQ","Cuisine":"vegan"}
+{"index" : { "_index":"indexnew","_id":"154"}}
+{"RestaurantID":"qm1J_dPA5IHij1oAnoZwHw","Cuisine":"izakaya"}
+{"index" : { "_index":"indexnew","_id":"155"}}
+{"RestaurantID":"rCS4w1A24k33FFTzZ52Vog","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"156"}}
+{"RestaurantID":"0laCKZiHrdM_ZKdhTFbGgg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"157"}}
+{"RestaurantID":"sHVnV3l2_mQefULh0mvwUA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"158"}}
+{"RestaurantID":"Zk8UgB9MDoIHWFYgAxNlIQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"159"}}
+{"RestaurantID":"0fInrM78IqLeLxo4yEQRQQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"160"}}
+{"RestaurantID":"GepWuSFEGuFzE8U1fYFOXQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"161"}}
+{"RestaurantID":"j61hBldPvd47MdLgeySlxQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"162"}}
+{"RestaurantID":"ULDVJYTT-47RqbLtlR_FUA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"163"}}
+{"RestaurantID":"fVsH6QIJPzXpVbgmeiolsA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"164"}}
+{"RestaurantID":"5ix1wZuOihAdjfy8bsOwOA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"165"}}
+{"RestaurantID":"CqtT8rPaSmrRClUBbqsCFA","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"166"}}
+{"RestaurantID":"ntQ7O1YPMIOrQkynhXRBVg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"167"}}
+{"RestaurantID":"L0OIOw6u8SF79OkDkRx_AA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"168"}}
+{"RestaurantID":"MSa1rpEQ_u3C-zrvo984Pw","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"169"}}
+{"RestaurantID":"OBiBi8nimTl9GF64sPQfuQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"170"}}
+{"RestaurantID":"HV8xairb2qct7wSHqNwqXw","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"171"}}
+{"RestaurantID":"dBzireL_uoSWdIgLCoVnDQ","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"172"}}
+{"RestaurantID":"AR_0QV4O12sHojkky_IMkg","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"173"}}
+{"RestaurantID":"FkBFKwF9bDl3BCt3vebHbw","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"174"}}
+{"RestaurantID":"tRZcEKBNNwiZw1_Px_POag","Cuisine":"lounges"}
+{"index" : { "_index":"indexnew","_id":"175"}}
+{"RestaurantID":"EF4M55USa1ZNy1rP5Kuk2w","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"176"}}
+{"RestaurantID":"DpfE0gPBXj-aj2pnEh4E2Q","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"177"}}
+{"RestaurantID":"zwWksgd8M4-g7RBmVudYTg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"178"}}
+{"RestaurantID":"4hukJNoy9F2ILYJZWl4Xlw","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"179"}}
+{"RestaurantID":"_lRU0Iczcf5WSsxbDnwE6w","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"180"}}
+{"RestaurantID":"lT-yNq6BW2vonJ9Ik-T5vg","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"181"}}
+{"RestaurantID":"446l_JghlLeekhd7_blMag","Cuisine":"persian"}
+{"index" : { "_index":"indexnew","_id":"182"}}
+{"RestaurantID":"9Ri8et0HTPwzQDg8nUZTBw","Cuisine":"bookstores"}
+{"index" : { "_index":"indexnew","_id":"183"}}
+{"RestaurantID":"RbiXVG4tzpC3zuILadyPIQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"184"}}
+{"RestaurantID":"d7_W8J8T0PESBsILMsGKGQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"185"}}
+{"RestaurantID":"JyYt8w1RpjDbITsE40eLfA","Cuisine":"hkcafe"}
+{"index" : { "_index":"indexnew","_id":"186"}}
+{"RestaurantID":"kWJF8L1u5jdlkLBItUu16w","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"187"}}
+{"RestaurantID":"q3_FgDWWuXcVGiNuo_OPBQ","Cuisine":"tuscan"}
+{"index" : { "_index":"indexnew","_id":"188"}}
+{"RestaurantID":"UfFqA5lL37OoDLmjEXaieQ","Cuisine":"speakeasies"}
+{"index" : { "_index":"indexnew","_id":"189"}}
+{"RestaurantID":"j1S3NUrkB3BVT49n_e76NQ","Cuisine":"bagels"}
+{"index" : { "_index":"indexnew","_id":"190"}}
+{"RestaurantID":"6F7qKaZaAR9ukgvR0NKTBg","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"191"}}
+{"RestaurantID":"IpBG_nY_opO9Zy-xNBEQCg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"192"}}
+{"RestaurantID":"TINmdFoqN8zm1MUpgRt7Jw","Cuisine":"izakaya"}
+{"index" : { "_index":"indexnew","_id":"193"}}
+{"RestaurantID":"37xSQ6l3feGBbmoqN84H3g","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"194"}}
+{"RestaurantID":"u1gdMF6vMCdwCilQ6vgyfw","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"195"}}
+{"RestaurantID":"eyjeP9CJZ_gYgeJFP_vtpQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"196"}}
+{"RestaurantID":"r2nIYBSyXny1-7XvsL2PVg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"197"}}
+{"RestaurantID":"2P2yx60T04Te19tkRZE43w","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"198"}}
+{"RestaurantID":"ooYUO3Pq_qypc1NXFzeLYQ","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"199"}}
+{"RestaurantID":"WyJOEcbuRfcWXYwqaDup_g","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"200"}}
+{"RestaurantID":"l9b8NbDyhKhnjLKtUwlPwQ","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"201"}}
+{"RestaurantID":"xWVHj2XNcxEg79Nkb5Zb6Q","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"202"}}
+{"RestaurantID":"goKn7tKTIqpNPM_jR2yRCg","Cuisine":"turkish"}
+{"index" : { "_index":"indexnew","_id":"203"}}
+{"RestaurantID":"yH6t1JWcwkdWG4CS5KPvow","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"204"}}
+{"RestaurantID":"38YuedP0ItlKbC-ncJ1XCQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"205"}}
+{"RestaurantID":"uCXsqMEfD12Rlmp1H09_Nw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"206"}}
+{"RestaurantID":"owT9OU3o8Q47qC1_ggDmWw","Cuisine":"lounges"}
+{"index" : { "_index":"indexnew","_id":"207"}}
+{"RestaurantID":"xCE6-u-FWcyovRYd2uLG7A","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"208"}}
+{"RestaurantID":"HYoPErHY9ZvtfXXCDmDOhw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"209"}}
+{"RestaurantID":"bB5b8cj0yWNJvmmLiQeWGA","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"210"}}
+{"RestaurantID":"nKpHJSu7xbGyerOjfLRzfA","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"211"}}
+{"RestaurantID":"aK32R1M7WFHMz8k8wuztiQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"212"}}
+{"RestaurantID":"xhuDOqY9G5mPuSqBnMCaYw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"213"}}
+{"RestaurantID":"rgk5Yg9_dESPrmrFWTIH0A","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"214"}}
+{"RestaurantID":"bZQryeTD6hIsT6lSUxzSSw","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"215"}}
+{"RestaurantID":"0yg9DS4RDceQ6HgH3Jx80Q","Cuisine":"irish_pubs"}
+{"index" : { "_index":"indexnew","_id":"216"}}
+{"RestaurantID":"qACLF23emO2Mfz3HbiiNWg","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"217"}}
+{"RestaurantID":"tO6ktIDgzUQ4XOGR6-Vkvw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"218"}}
+{"RestaurantID":"n1xpGOPa7XRq4or7QLjzHw","Cuisine":"teppanyaki"}
+{"index" : { "_index":"indexnew","_id":"219"}}
+{"RestaurantID":"EP4joK7HT-AdSJvas1hIzg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"220"}}
+{"RestaurantID":"Lw044EfH1h3XhUhri3ExfA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"221"}}
+{"RestaurantID":"EFWgKMyT2krr9RpUeCxysA","Cuisine":"grocery"}
+{"index" : { "_index":"indexnew","_id":"222"}}
+{"RestaurantID":"VQ5YGa4L4AT3ugF61hM9qQ","Cuisine":"streetvendors"}
+{"index" : { "_index":"indexnew","_id":"223"}}
+{"RestaurantID":"VDz9n7gwcq51wOAbTBdXxA","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"224"}}
+{"RestaurantID":"G2PCaDt_VC4O4w6uRMpE9A","Cuisine":"halal"}
+{"index" : { "_index":"indexnew","_id":"225"}}
+{"RestaurantID":"rJfGgBleDYCVq2rkBr_w-Q","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"226"}}
+{"RestaurantID":"vEvOcLuD99EMWJghbc_9ag","Cuisine":"malaysian"}
+{"index" : { "_index":"indexnew","_id":"227"}}
+{"RestaurantID":"Ixh8PpRS3D-xpXPqBf8OBA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"228"}}
+{"RestaurantID":"lY_gb_hNbit6GHBiOn3VeQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"229"}}
+{"RestaurantID":"ryvBsB9FrBBZDak87iGS1w","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"230"}}
+{"RestaurantID":"63nYipWuA42RZmESBMUNkQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"231"}}
+{"RestaurantID":"TbZ7mJqWuyJycLPNDrbY6A","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"232"}}
+{"RestaurantID":"gC7QKqUe2wrxUTxL11ab1A","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"233"}}
+{"RestaurantID":"XghOzJn16M-nvaKMOdC5og","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"234"}}
+{"RestaurantID":"C9BjYm4WyoQFPQUHmBErDg","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"235"}}
+{"RestaurantID":"mlm40NxsVJUPnh3LTayaaw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"236"}}
+{"RestaurantID":"opA6T-cCCdBmixRs_3Q3Lw","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"237"}}
+{"RestaurantID":"cG9yhk_wkMm7XwR2HcHmrQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"238"}}
+{"RestaurantID":"C-8mGN7lt5rIraO5n-15ug","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"239"}}
+{"RestaurantID":"GticI2JB8Iw2ktRfLv6aRQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"240"}}
+{"RestaurantID":"J9UA6rzI5WW_cDGjwDnF5g","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"241"}}
+{"RestaurantID":"4XX-zF8h5Lvrr22_tqU6-Q","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"242"}}
+{"RestaurantID":"MU9gYp1tdK4iB0E2blZUVQ","Cuisine":"brazilian"}
+{"index" : { "_index":"indexnew","_id":"243"}}
+{"RestaurantID":"1851MMElaLteR03rnGAMlw","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"244"}}
+{"RestaurantID":"EYH4FiA2phvYg73Jjw1KSA","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"245"}}
+{"RestaurantID":"UK1oGbr8GU2rufpnJR4-HQ","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"246"}}
+{"RestaurantID":"0Q13lJ3OHXOuBVpN6jeTjw","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"247"}}
+{"RestaurantID":"pG-IkylRFOb-HlaD8NwvvQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"248"}}
+{"RestaurantID":"ts_ylhPR_qFQ87uAZrYVvQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"249"}}
+{"RestaurantID":"ezEOK2cGfuyuL7j0nVHW6w","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"250"}}
+{"RestaurantID":"pP92FmGKpH5nQfaPXMfQAg","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"251"}}
+{"RestaurantID":"d5vREOMISnwoYEWlDpPAvw","Cuisine":"seafoodmarkets"}
+{"index" : { "_index":"indexnew","_id":"252"}}
+{"RestaurantID":"PGIDfBgA-cXo5M_TgkUT2Q","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"253"}}
+{"RestaurantID":"IxFTW7805MrWpbV4RbSFhw","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"254"}}
+{"RestaurantID":"REC_m1Y4caJIXz8DDdgh-A","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"255"}}
+{"RestaurantID":"4wDWxcGMJEgriP-6ObJsqg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"256"}}
+{"RestaurantID":"J4qehrNgX-8fi9-TTiVuBA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"257"}}
+{"RestaurantID":"d0Up0vNOqr1eL3EtjHboMA","Cuisine":"venues"}
+{"index" : { "_index":"indexnew","_id":"258"}}
+{"RestaurantID":"4M3jBdELCcCKJl1mEnTxzQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"259"}}
+{"RestaurantID":"rgT1QspkBHKHb7MlliBeuA","Cuisine":"scandinavian"}
+{"index" : { "_index":"indexnew","_id":"260"}}
+{"RestaurantID":"0SqFgkdmfNWj9iUQgfghEA","Cuisine":"soulfood"}
+{"index" : { "_index":"indexnew","_id":"261"}}
+{"RestaurantID":"4MDltWx_2dxzTEv6mTRfSQ","Cuisine":"burmese"}
+{"index" : { "_index":"indexnew","_id":"262"}}
+{"RestaurantID":"KrJ6m_TkxBAPPSNH-G7rvQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"263"}}
+{"RestaurantID":"xuAtvWwGXfWGnxYK5hYvZg","Cuisine":"tea"}
+{"index" : { "_index":"indexnew","_id":"264"}}
+{"RestaurantID":"Sp-vnk-waTvKblG_88M4TA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"265"}}
+{"RestaurantID":"1Q3oaJahyGRogDWgpo7PIw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"266"}}
+{"RestaurantID":"P2CTp4xyaNCe2AXSiLeOSQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"267"}}
+{"RestaurantID":"qusZ-K5tzM1EyOa1IEWCHA","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"268"}}
+{"RestaurantID":"f4QBa0khsF9Ut99Tc9IMIA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"269"}}
+{"RestaurantID":"HOfNVzn45dwctTOCLVPj2g","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"270"}}
+{"RestaurantID":"0ksKKrgHt-6xCCHfTlLcoA","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"271"}}
+{"RestaurantID":"nBkSqOhZMa1A7Yk3q8VPaA","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"272"}}
+{"RestaurantID":"NgPXeIWQicIXxjxSlGXvjA","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"273"}}
+{"RestaurantID":"JU5d81TYm7IJHWqOqJWMqw","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"274"}}
+{"RestaurantID":"EDucGBSfQ0YIbxdHS-KnCg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"275"}}
+{"RestaurantID":"7OMGEtFWT6sdd9TVuoGqJQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"276"}}
+{"RestaurantID":"EbX_9tqAJs4gW51gZpOB7g","Cuisine":"malaysian"}
+{"index" : { "_index":"indexnew","_id":"277"}}
+{"RestaurantID":"dvbZ4uydwu4b9Gu8cfrkgA","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"278"}}
+{"RestaurantID":"vA0ssUIUXrZLr_hsYpkH6A","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"279"}}
+{"RestaurantID":"BSv3awhABROYjjwlQaQ-Qw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"280"}}
+{"RestaurantID":"quTCBKTDcP2MWRM8jqiAQg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"281"}}
+{"RestaurantID":"HcWm-9ZZu2_brnuRxN5Gpg","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"282"}}
+{"RestaurantID":"0wRJkcTsZvC4IeYG4D5IQA","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"283"}}
+{"RestaurantID":"js7pXIr0lGoTd_6HPMPckg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"284"}}
+{"RestaurantID":"w3sLNKUwi2VSKImizZv4vA","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"285"}}
+{"RestaurantID":"DggqVM54aBZG4XMmUCY2Og","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"286"}}
+{"RestaurantID":"7ZQSMqWzvXMSetXnii2fBg","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"287"}}
+{"RestaurantID":"1lPcNVCHCNE6KbQJzbguzQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"288"}}
+{"RestaurantID":"MEzvOZ34GFaiEAaVQFvggg","Cuisine":"media"}
+{"index" : { "_index":"indexnew","_id":"289"}}
+{"RestaurantID":"wR9YCk6x6aWyAffKmQWeuA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"290"}}
+{"RestaurantID":"KEeQI76_JsAyP_kW5UskUw","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"291"}}
+{"RestaurantID":"HFn1sPqKSzvxaMk2n2ZtJw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"292"}}
+{"RestaurantID":"bUt2TiF1dX1RKcSUplAAnA","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"293"}}
+{"RestaurantID":"SP4bvMvxel_UPdof_er3HA","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"294"}}
+{"RestaurantID":"e7waIGDxL87Y2GXA-oK2Yw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"295"}}
+{"RestaurantID":"Jy0nQ1uI8KPvTv8nBZGdMg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"296"}}
+{"RestaurantID":"J7rKTVqz2a-O9OxGW5BfSg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"297"}}
+{"RestaurantID":"klAhw3xLQi9GF1tf_HnS7w","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"298"}}
+{"RestaurantID":"GMcyB6-zdMxDchGxyDEsWA","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"299"}}
+{"RestaurantID":"tk02Oriv15115afpCjroHA","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"300"}}
+{"RestaurantID":"0FaLilJs2VN83hOEBcBnPg","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"301"}}
+{"RestaurantID":"ntiDPLkWm6GDLkYh0d2tBw","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"302"}}
+{"RestaurantID":"T_vLaKsuyJPDpsrSZuc7WA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"303"}}
+{"RestaurantID":"MyQV4i518ZO4CLudtR8gLA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"304"}}
+{"RestaurantID":"0IwdwNnbro5RLLIlaxyfpQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"305"}}
+{"RestaurantID":"lCYMi_3nM_SAaigIjl3uGA","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"306"}}
+{"RestaurantID":"iVkmxelFstmARvMbrVhlIQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"307"}}
+{"RestaurantID":"3oB2_2vpeIyxJt1GvlcZBA","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"308"}}
+{"RestaurantID":"0czWwSVOVjVQaefbL4Zq-g","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"309"}}
+{"RestaurantID":"cw5jesO9tJf7sOz6HIUspw","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"310"}}
+{"RestaurantID":"TAANt0fPbfHqVP5LyMBioA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"311"}}
+{"RestaurantID":"mmFEdsr3os5z86aVP7tW0w","Cuisine":"cajun"}
+{"index" : { "_index":"indexnew","_id":"312"}}
+{"RestaurantID":"_4Grm99JEHnDWskCHAJfUg","Cuisine":"greek"}
+{"index" : { "_index":"indexnew","_id":"313"}}
+{"RestaurantID":"PGpCaNkB1meojnbgRmb2gQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"314"}}
+{"RestaurantID":"fRdTURZB-dROg5dIIDGDLA","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"315"}}
+{"RestaurantID":"-R5CBTnY10kdVNNv0lbHnA","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"316"}}
+{"RestaurantID":"YJGVfuxx51TALFxi02xvKg","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"317"}}
+{"RestaurantID":"xefmiLAsKURFc6FDGSRgfQ","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"318"}}
+{"RestaurantID":"TOlIQbDBIHq_or6JcXx4ZQ","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"319"}}
+{"RestaurantID":"NDIrifAl6K-RrnZ2D3ZGbw","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"320"}}
+{"RestaurantID":"LztkKM-lvRraBbS9TVXzcg","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"321"}}
+{"RestaurantID":"SjG7CnTIuUBIo9T4BThkGQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"322"}}
+{"RestaurantID":"et6nuz0X4j-NpIrsrbPP6w","Cuisine":"hawaiian"}
+{"index" : { "_index":"indexnew","_id":"323"}}
+{"RestaurantID":"DoSU8IPq-Py_YV3kYmXPfQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"324"}}
+{"RestaurantID":"s_DIwes25b1jRx1ZN5BF_Q","Cuisine":"foodtrucks"}
+{"index" : { "_index":"indexnew","_id":"325"}}
+{"RestaurantID":"yXMZSuLJEpNu24yhKey9XA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"326"}}
+{"RestaurantID":"iWiRGDphwDrXAQyEJL5KVA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"327"}}
+{"RestaurantID":"OFc7aHP1chwqXTgtYtbJzQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"328"}}
+{"RestaurantID":"D1Si3LYL2e_iEIDejZmRhA","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"329"}}
+{"RestaurantID":"vy7nHSNLCLrz1wBUcQD78w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"330"}}
+{"RestaurantID":"JwPVO6qcRgtqSTEFdfz4TA","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"331"}}
+{"RestaurantID":"xTwzk3lh7tE2GFiVQop1kg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"332"}}
+{"RestaurantID":"TwxP5xU_xyzlf7SVzCnpuA","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"333"}}
+{"RestaurantID":"FdB6KDTEmX8HvomPwySAHg","Cuisine":"senegalese"}
+{"index" : { "_index":"indexnew","_id":"334"}}
+{"RestaurantID":"ZNJ4ij7_xOlKSeMeEh1khA","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"335"}}
+{"RestaurantID":"c0rwFLc_xk8AG0vitOiK5g","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"336"}}
+{"RestaurantID":"IYDOX3EelsDWW3kWeoE_Zw","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"337"}}
+{"RestaurantID":"Fjxn5z_wpedMOIxOk4pMeA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"338"}}
+{"RestaurantID":"pyyp8qKVJ37xhWQGzoOSPg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"339"}}
+{"RestaurantID":"JI_teX5hC2rvHRbAo9JRTw","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"340"}}
+{"RestaurantID":"szrkleW0KeKcoKqnGa2Tew","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"341"}}
+{"RestaurantID":"YKLvheNuhQ3083AEgx0V2Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"342"}}
+{"RestaurantID":"5ZgCfc1_fotAKUp7n3YJkQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"343"}}
+{"RestaurantID":"wo2mD2d2ufdmM5FV0u139w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"344"}}
+{"RestaurantID":"dMU62c3NKm7AFy90sA-Xtw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"345"}}
+{"RestaurantID":"k0fnJRSV8tzM2bzkvFdlGg","Cuisine":"cantonese"}
+{"index" : { "_index":"indexnew","_id":"346"}}
+{"RestaurantID":"9mWw-sK4RjSPYRHQN_S9ZQ","Cuisine":"filipino"}
+{"index" : { "_index":"indexnew","_id":"347"}}
+{"RestaurantID":"GA5msU6NO9rQRctPfDJCBg","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"348"}}
+{"RestaurantID":"obFs12x7mgYPGxgalBd22w","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"349"}}
+{"RestaurantID":"NfMCq2ZF89FKD5ut6KmUkw","Cuisine":"venues"}
+{"index" : { "_index":"indexnew","_id":"350"}}
+{"RestaurantID":"MbwsCB7echBlVwzfJ_9c9g","Cuisine":"modern_european"}
+{"index" : { "_index":"indexnew","_id":"351"}}
+{"RestaurantID":"AIrNQUhEfFIWlRxfoPDZng","Cuisine":"turkish"}
+{"index" : { "_index":"indexnew","_id":"352"}}
+{"RestaurantID":"x61Sizu7lqGPMGuKEGHo-Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"353"}}
+{"RestaurantID":"M-4J09S14mPsH1EJrnR1Og","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"354"}}
+{"RestaurantID":"0ASfmKBIeJlTO6IzES6rzw","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"355"}}
+{"RestaurantID":"ZOfk6Ao0db5icjc0WEq7zg","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"356"}}
+{"RestaurantID":"TDyu1-6XF7r1jc13j7nDNA","Cuisine":"pubs"}
+{"index" : { "_index":"indexnew","_id":"357"}}
+{"RestaurantID":"-BOAKHyKKAXE1WhuVpMFkQ","Cuisine":"pubs"}
+{"index" : { "_index":"indexnew","_id":"358"}}
+{"RestaurantID":"2wVirrAVg3ltAFHoHeXHMQ","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"359"}}
+{"RestaurantID":"_IkMfWpOkQXRZtJAYJUJIw","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"360"}}
+{"RestaurantID":"hf6J_NlHOKWUJ4BNib880g","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"361"}}
+{"RestaurantID":"bBDzXNM7Y7_8WE2Sm6R_ig","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"362"}}
+{"RestaurantID":"k3IP2lWur7dEFCsSFwBXAA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"363"}}
+{"RestaurantID":"RjeW_l8OF99rn5df5-Rj4g","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"364"}}
+{"RestaurantID":"6aOITRm4GrNbAJ9Li1J_yQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"365"}}
+{"RestaurantID":"1hdwhb6kzLxL3Lt3PxoHKA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"366"}}
+{"RestaurantID":"SNhDVaf_n7VDZcfry8mYdA","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"367"}}
+{"RestaurantID":"RmQOUUkwHDhuuh9Y6XzLsQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"368"}}
+{"RestaurantID":"dbxrlDoBwR6br4htUy8YpA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"369"}}
+{"RestaurantID":"9GBqbQ415CXaBa2gwHyFHQ","Cuisine":"modern_european"}
+{"index" : { "_index":"indexnew","_id":"370"}}
+{"RestaurantID":"9mawr6QwVHm5q8JRXPFjPA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"371"}}
+{"RestaurantID":"ttn8OS7X986fYIuEEXG09g","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"372"}}
+{"RestaurantID":"g3og6zatKOpXqE-o9ORnXw","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"373"}}
+{"RestaurantID":"4MqJOLaeqCgBFQmMFPfe3g","Cuisine":"lounges"}
+{"index" : { "_index":"indexnew","_id":"374"}}
+{"RestaurantID":"C3WY8BJBF-8GOujO7fasmg","Cuisine":"soulfood"}
+{"index" : { "_index":"indexnew","_id":"375"}}
+{"RestaurantID":"TivnXoTHWVUCt-O8eHxr1w","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"376"}}
+{"RestaurantID":"cK3RoKIHN7n8WetlIyTWHA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"377"}}
+{"RestaurantID":"hvMbN42EaHlZoHMS3degLg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"378"}}
+{"RestaurantID":"snCdQYfGtopb5n0cSfw5uw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"379"}}
+{"RestaurantID":"OUp31SPcjK8wkBK_E6h2Gg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"380"}}
+{"RestaurantID":"QzjF7OVV-WiJH1dILFrzgg","Cuisine":"greek"}
+{"index" : { "_index":"indexnew","_id":"381"}}
+{"RestaurantID":"v8y7NLCC25KY_lSbcs3UPA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"382"}}
+{"RestaurantID":"VCqNjupCWZ5INzOcyBMJSg","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"383"}}
+{"RestaurantID":"tvgvaUpOJ6OQv6edy-zAQw","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"384"}}
+{"RestaurantID":"xt4sa64WOrpJvZBDPNPNYg","Cuisine":"comfortfood"}
+{"index" : { "_index":"indexnew","_id":"385"}}
+{"RestaurantID":"LSTcQPMmoSdd68zur-aNdw","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"386"}}
+{"RestaurantID":"mMuAsPSy2T56j0ENSTPL9w","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"387"}}
+{"RestaurantID":"w3CHmfkPc5K7MzYfBmyrNQ","Cuisine":"izakaya"}
+{"index" : { "_index":"indexnew","_id":"388"}}
+{"RestaurantID":"9_CEU7Wmvmwlyvqr-PJD6w","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"389"}}
+{"RestaurantID":"-VRnWGBVMovSS0Ijta_qyg","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"390"}}
+{"RestaurantID":"lhEzTykkqFz92Vq2uILtyw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"391"}}
+{"RestaurantID":"pnPSvAl60FDYiA46Sz2sWA","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"392"}}
+{"RestaurantID":"L5eqJRy8Yx_4El6rUxWmBw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"393"}}
+{"RestaurantID":"hO1T1fG5f5FbvOP2124rpw","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"394"}}
+{"RestaurantID":"Bb0h5Rs8ugSM2CjulRhfBw","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"395"}}
+{"RestaurantID":"BNaveJmi-OUGKG9sRfrIhA","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"396"}}
+{"RestaurantID":"C7s1ohdoF8UtToowLsdIsQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"397"}}
+{"RestaurantID":"WxMVzJDtxXyHUbW28Ye_bQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"398"}}
+{"RestaurantID":"Lz_9RXFKmOaSA4IpgV6NlA","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"399"}}
+{"RestaurantID":"_ncu4WN_n2ZP02_dHFsrIA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"400"}}
+{"RestaurantID":"8bgaLNvo56fIqCbWA-nszg","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"401"}}
+{"RestaurantID":"MTP9i2rqkZf1Tn8-ARTPNA","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"402"}}
+{"RestaurantID":"WlhkVLite9TQrtnzYLiO4Q","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"403"}}
+{"RestaurantID":"xTnivXEdEtXrnhp-z4JGvg","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"404"}}
+{"RestaurantID":"BgueHXOeFcOHGT8jwBkEYw","Cuisine":"puertorican"}
+{"index" : { "_index":"indexnew","_id":"405"}}
+{"RestaurantID":"2C1hZNqiWWfQJAIvS9rvDQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"406"}}
+{"RestaurantID":"T_NaO3CgVSb1uIjxxa9OYA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"407"}}
+{"RestaurantID":"5wz7lpxNj6nma9gb2xrDuw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"408"}}
+{"RestaurantID":"K_0tNvQd7gyabfJrodf-tw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"409"}}
+{"RestaurantID":"qmug--sWLL23vwMFfuEmqQ","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"410"}}
+{"RestaurantID":"E8gpCgCVaO2hNEPTrh4n2A","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"411"}}
+{"RestaurantID":"cOtB9fWWLrbaBebZDjJquQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"412"}}
+{"RestaurantID":"Ve6GVzzJpR5QIIPdcn6ViQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"413"}}
+{"RestaurantID":"b42PcC1nCP602fiXF0a9Xg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"414"}}
+{"RestaurantID":"DxeD4Jw3gsImI-olCOB0bA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"415"}}
+{"RestaurantID":"j9a6xr78a6tPBblKvvBJew","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"416"}}
+{"RestaurantID":"vpkUUhs6dCnGeD-Vz0D29Q","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"417"}}
+{"RestaurantID":"O1fUmxt3kbV-rnyjBtzAfw","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"418"}}
+{"RestaurantID":"txKDRVyFvArVLH1pvwUwtg","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"419"}}
+{"RestaurantID":"uLWp1QR_W2WJImMnB706hg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"420"}}
+{"RestaurantID":"dCDpb-fz6Ton9AXLoaWIhA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"421"}}
+{"RestaurantID":"GyOMZgEV1mv0AI4FqWT8sQ","Cuisine":"hungarian"}
+{"index" : { "_index":"indexnew","_id":"422"}}
+{"RestaurantID":"NXdEbUpVdtE5VwlqFOXliQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"423"}}
+{"RestaurantID":"scTDvJ2M2jDbb1ntVeIyxA","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"424"}}
+{"RestaurantID":"qnkdR4GDnQ7b-jDAfD5HUg","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"425"}}
+{"RestaurantID":"4Z0sxJTNkxhRBH3l5PG_qw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"426"}}
+{"RestaurantID":"0zcgBHXbaJn0ZxgpcTJ1aQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"427"}}
+{"RestaurantID":"YfB7r67NbrFpuret7TTtBQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"428"}}
+{"RestaurantID":"SpyQHasbnU5YkOR6PI4sNQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"429"}}
+{"RestaurantID":"7vqKC--s8iJ37QGitNhkeQ","Cuisine":"haitian"}
+{"index" : { "_index":"indexnew","_id":"430"}}
+{"RestaurantID":"VSPkVw9gSQx-5v4A6aC_YA","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"431"}}
+{"RestaurantID":"0qLiJ70Iciz3K9JVmwY2tg","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"432"}}
+{"RestaurantID":"kLqCgM4T7NT78bDEC2-TFw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"433"}}
+{"RestaurantID":"diX-SHOYXgGzEEYMCLxaCw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"434"}}
+{"RestaurantID":"Or9YvDiavReuMAr67ljDHA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"435"}}
+{"RestaurantID":"koXLkmULtStfolzUXH9avA","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"436"}}
+{"RestaurantID":"gj6zDB5krFzL90qdmpYVTQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"437"}}
+{"RestaurantID":"wV2YuZKjk5VhZz3I27xtsA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"438"}}
+{"RestaurantID":"_FAh31lob7Dnn4iGiLIwng","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"439"}}
+{"RestaurantID":"WrYtbvOdtL083ArOKFxiiQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"440"}}
+{"RestaurantID":"0rQz8mkleT62eUkiAVs4UA","Cuisine":"bagels"}
+{"index" : { "_index":"indexnew","_id":"441"}}
+{"RestaurantID":"0XuJtcq9nMdAWyhJ_fZC-w","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"442"}}
+{"RestaurantID":"0SCUtHbWMrbNvLHNCYHgaQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"443"}}
+{"RestaurantID":"PQd4M3cuSgdweWgLgZIslQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"444"}}
+{"RestaurantID":"XEugUtbw4rRmGr9S1XA-aQ","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"445"}}
+{"RestaurantID":"V95hnN4N2vw1ph2mDxIA7w","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"446"}}
+{"RestaurantID":"pZWhRtCJvTuwWoavaiCQrA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"447"}}
+{"RestaurantID":"7m4GnzK5pv7qGn-Ar1zabQ","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"448"}}
+{"RestaurantID":"3xTQT7qjZJIxc-eBiFMerQ","Cuisine":"cajun"}
+{"index" : { "_index":"indexnew","_id":"449"}}
+{"RestaurantID":"NmzDoAerQUdvMNT90gk4Xw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"450"}}
+{"RestaurantID":"P0OilvtjGnUQgf7hFzEgcg","Cuisine":"chicken_wings"}
+{"index" : { "_index":"indexnew","_id":"451"}}
+{"RestaurantID":"B2X53VuOuLyXe0OsGY-ZzA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"452"}}
+{"RestaurantID":"kQuTJxm0KAX1AsS46vhC_g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"453"}}
+{"RestaurantID":"VdAVjghEq_Zl-DDte0mjrw","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"454"}}
+{"RestaurantID":"UlGSfUiVs4V5oH9C4AHD5w","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"455"}}
+{"RestaurantID":"1VBeb3BF8R8cwuCYGeMrVg","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"456"}}
+{"RestaurantID":"a6SzfZ2F-uELmymusQVMBg","Cuisine":"polish"}
+{"index" : { "_index":"indexnew","_id":"457"}}
+{"RestaurantID":"VaorFVboJxLfHIakSzGL6w","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"458"}}
+{"RestaurantID":"lXGCo-K7eftxRT_6E59-Iw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"459"}}
+{"RestaurantID":"yeg982WulnMFevQCoBlm1Q","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"460"}}
+{"RestaurantID":"VGTrGSH38A4n-v5nFe4skA","Cuisine":"foodtrucks"}
+{"index" : { "_index":"indexnew","_id":"461"}}
+{"RestaurantID":"jODudB8mE-udjFjloOwBoA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"462"}}
+{"RestaurantID":"Zabkjf2HIT-ZAPmgMF3Lvw","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"463"}}
+{"RestaurantID":"xd7ioU33jkwx0hQ3kUNIOg","Cuisine":"pubs"}
+{"index" : { "_index":"indexnew","_id":"464"}}
+{"RestaurantID":"feY7PgoRjCp2qReaIitRkQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"465"}}
+{"RestaurantID":"QR1YIRzFjd2bi5iBzT9zXg","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"466"}}
+{"RestaurantID":"Ej-hrhc8HFWfijN4X5akOg","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"467"}}
+{"RestaurantID":"vYGi3439teYg1wPzqVcHUA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"468"}}
+{"RestaurantID":"A0saPXtRGKl-SVJGQyQAOw","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"469"}}
+{"RestaurantID":"MLBqYHtCwACXgmKxYTFq3g","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"470"}}
+{"RestaurantID":"zyxI5ko5Dpkqi9q5oSGa9w","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"471"}}
+{"RestaurantID":"_z2_1TE_1brlvljiGtJ4mA","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"472"}}
+{"RestaurantID":"xnqEMpQzCltu06p7NSNMMw","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"473"}}
+{"RestaurantID":"HEAce8qlh0OOOLNpAcX10A","Cuisine":"japacurry"}
+{"index" : { "_index":"indexnew","_id":"474"}}
+{"RestaurantID":"T3o3LRG2-7fgt7o0v3Ab8Q","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"475"}}
+{"RestaurantID":"5mISNN637bBiT42hQIaTSw","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"476"}}
+{"RestaurantID":"tHW3EwGwai1AiWQ6ZD-wjg","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"477"}}
+{"RestaurantID":"XEljGR5ptD9TLXaLsP30Jg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"478"}}
+{"RestaurantID":"4b43TOXpskBPZqQzbKkwDQ","Cuisine":"vegetarian"}
+{"index" : { "_index":"indexnew","_id":"479"}}
+{"RestaurantID":"Wb4Pwrl4CmR4VpRnalO6oA","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"480"}}
+{"RestaurantID":"zKtOn6jT429OmxT7OaTKoA","Cuisine":"filipino"}
+{"index" : { "_index":"indexnew","_id":"481"}}
+{"RestaurantID":"8ig0yf0003DAp4YOGTlbVg","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"482"}}
+{"RestaurantID":"WlRZ4JEAVqtemQ5WQhFAFg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"483"}}
+{"RestaurantID":"iexl39DYyy_76Xq3ExaJkQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"484"}}
+{"RestaurantID":"yB4ziqFM_7V8JxJas7CHfA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"485"}}
+{"RestaurantID":"dFAuN-KEwWg-6sdBu7KuWw","Cuisine":"fooddeliveryservices"}
+{"index" : { "_index":"indexnew","_id":"486"}}
+{"RestaurantID":"pqqhHTz_ZpApsaWGa_zMTA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"487"}}
+{"RestaurantID":"HpxYBu1ARzOGvuUcLJe54g","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"488"}}
+{"RestaurantID":"Gni26uzPdfkCSagKEcFP2g","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"489"}}
+{"RestaurantID":"7gZGVdqMch7ls0IGO3DijQ","Cuisine":"turkish"}
+{"index" : { "_index":"indexnew","_id":"490"}}
+{"RestaurantID":"3idAtiEXe_XfTcPoZC_DcQ","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"491"}}
+{"RestaurantID":"E7q1Qf6380N_aMqz28EgNw","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"492"}}
+{"RestaurantID":"gKZrBbZv0tqS_ksMh5wqBw","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"493"}}
+{"RestaurantID":"s5nPO911cYB2chdwqSqT9g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"494"}}
+{"RestaurantID":"34LM8_lP8iwizHBu6YgaQQ","Cuisine":"newmexican"}
+{"index" : { "_index":"indexnew","_id":"495"}}
+{"RestaurantID":"WOudghOPELKUcvdPKsEmTA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"496"}}
+{"RestaurantID":"JyXn_GCGM2DsNYIzgzQrDw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"497"}}
+{"RestaurantID":"MCvqIGj4-_ue-aGfvcSWXQ","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"498"}}
+{"RestaurantID":"V58g7E1AHkuTchTVyLQuYQ","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"499"}}
+{"RestaurantID":"VgIiCZoUnujSMZATByk77Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"500"}}
+{"RestaurantID":"Bo1eW6NCzOMuxIyu6CzutQ","Cuisine":"african"}
+{"index" : { "_index":"indexnew","_id":"501"}}
+{"RestaurantID":"Y8s3hZf2l8U9wiiEmCI4JQ","Cuisine":"lounges"}
+{"index" : { "_index":"indexnew","_id":"502"}}
+{"RestaurantID":"FXimZKjpMjbDR20M2ruhvg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"503"}}
+{"RestaurantID":"3cC6UcOj_-FMXRBYlsXFzA","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"504"}}
+{"RestaurantID":"wx9mXol6jOrUoAK4vaFS9Q","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"505"}}
+{"RestaurantID":"g42C_GsiLWzbVY2OZQsoyw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"506"}}
+{"RestaurantID":"xNLwx39xvgn95aTzGLpQBw","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"507"}}
+{"RestaurantID":"F-AfJgFrxNbn49Mp4l7aXg","Cuisine":"pubs"}
+{"index" : { "_index":"indexnew","_id":"508"}}
+{"RestaurantID":"L0XYugkXpuACPMQ451MB8g","Cuisine":"argentine"}
+{"index" : { "_index":"indexnew","_id":"509"}}
+{"RestaurantID":"HFIu45xr93jqchnN1YVJeQ","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"510"}}
+{"RestaurantID":"Aazjxg21VH2cncWYBAv68Q","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"511"}}
+{"RestaurantID":"7oAoNCxii09pyqLx8kH8GA","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"512"}}
+{"RestaurantID":"L7_siqDfU4-ZA17YtA-SBg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"513"}}
+{"RestaurantID":"hsSNKebzjIp934m_nkjlSg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"514"}}
+{"RestaurantID":"p-9OnMXfvPzpHD1iNPJBrQ","Cuisine":"vegan"}
+{"index" : { "_index":"indexnew","_id":"515"}}
+{"RestaurantID":"P-RaGy9h2tH_IRXcDv7mmg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"516"}}
+{"RestaurantID":"aJKpUrLLNX3dy7NJCriqcQ","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"517"}}
+{"RestaurantID":"QGFeEEwA5b19L_hSsmocPw","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"518"}}
+{"RestaurantID":"9LqZoFIN7dbRfNk8YMgueg","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"519"}}
+{"RestaurantID":"ddyYKrNWkdc5mudrmLaTvA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"520"}}
+{"RestaurantID":"8bIXIStb1SVu1sXYfcMH5g","Cuisine":"australian"}
+{"index" : { "_index":"indexnew","_id":"521"}}
+{"RestaurantID":"TswtgsaC8VgQv0VDonFOTg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"522"}}
+{"RestaurantID":"OefJvbJxLW1ZTr-8HUZdyQ","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"523"}}
+{"RestaurantID":"z7H9ApIGopnDnQaglnPTzg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"524"}}
+{"RestaurantID":"T_d-JdVD-DVl4DzWqQk9DQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"525"}}
+{"RestaurantID":"JboVlCv3LtJt8hA-yI9U0A","Cuisine":"brazilian"}
+{"index" : { "_index":"indexnew","_id":"526"}}
+{"RestaurantID":"UEC2N2hVWRI4r9COPLBtWg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"527"}}
+{"RestaurantID":"3FayPk6to5oSxZ5gEo6mYQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"528"}}
+{"RestaurantID":"FebvtuoXRQ8h8CZMe8NeYw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"529"}}
+{"RestaurantID":"pP4oS09iOB6qMaX3GkKSuQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"530"}}
+{"RestaurantID":"33CZJJ7m31vkj2eBQBvOUg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"531"}}
+{"RestaurantID":"WYHvneJfkiWR9GnIHoS1Dw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"532"}}
+{"RestaurantID":"NKDhtsMu8ChtWlHFmbyHtA","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"533"}}
+{"RestaurantID":"tC78zYWmKHS1RiCsrkP58Q","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"534"}}
+{"RestaurantID":"oV_B5pRkcICNab7_eVoIcA","Cuisine":"argentine"}
+{"index" : { "_index":"indexnew","_id":"535"}}
+{"RestaurantID":"FFzCto6PhZYZGUZLOICbTg","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"536"}}
+{"RestaurantID":"CVHwQvZO1jp7-AfnFHR0ug","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"537"}}
+{"RestaurantID":"1IfRf5XvBIynockIPa3YcQ","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"538"}}
+{"RestaurantID":"PnnU4YcwH6qOO97i5CzKgA","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"539"}}
+{"RestaurantID":"P4AqEW0Bs-6bkA_fHpcBlA","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"540"}}
+{"RestaurantID":"qLJYqqj9vu0sdBJsxQKYjQ","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"541"}}
+{"RestaurantID":"-qxQDGZc8Ejz7MUFlFWyuQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"542"}}
+{"RestaurantID":"kGgOb9nxnFfDvPdZ1Aq7cA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"543"}}
+{"RestaurantID":"56qlj1cYlqNzmG0xllGg-w","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"544"}}
+{"RestaurantID":"nzsInryiJhLei5cwThIrZA","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"545"}}
+{"RestaurantID":"9aJ1MVTthZw3QjqoG7mPjg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"546"}}
+{"RestaurantID":"SjDUK_FVUIs3q_6laCiDOQ","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"547"}}
+{"RestaurantID":"nrwOQSXoRXfAYhkdjiUk8g","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"548"}}
+{"RestaurantID":"ynR4-QgEOsE7VhNfIWo73w","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"549"}}
+{"RestaurantID":"rCtsqHtOAOjZ7EUQDFRSbA","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"550"}}
+{"RestaurantID":"6BDNKIOtJ3dFLRvXE_4NSQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"551"}}
+{"RestaurantID":"S-WdvEU1X7J33whXWk1zmw","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"552"}}
+{"RestaurantID":"CnDMmAzrNJF64Y8QcelQAQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"553"}}
+{"RestaurantID":"StF9WWWbrRzEOmNAcEINcA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"554"}}
+{"RestaurantID":"OOZgZGmiKocoYRgUOupEcA","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"555"}}
+{"RestaurantID":"E48WbksxAk19a8vjJRVIVQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"556"}}
+{"RestaurantID":"VbFYau70iG_s6UNFwYtGVQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"557"}}
+{"RestaurantID":"AKWo1tSjYDJ7yisj5YGANQ","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"558"}}
+{"RestaurantID":"diiUjS6uHvbQRoiWOGKXsA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"559"}}
+{"RestaurantID":"SCQvI5pAJmD-OMm37kkS6Q","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"560"}}
+{"RestaurantID":"kxcdTBv7LbWwLrp7ovvdsQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"561"}}
+{"RestaurantID":"fiPKqhW7BGq3aURuLPQn9Q","Cuisine":"chickenshop"}
+{"index" : { "_index":"indexnew","_id":"562"}}
+{"RestaurantID":"CesS-E8Q3ztX6VnkXO6wBg","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"563"}}
+{"RestaurantID":"H5bhfR5sL0I2w1csjI1uMA","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"564"}}
+{"RestaurantID":"SCQ9B9jxqNHvJKQ-RagxaA","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"565"}}
+{"RestaurantID":"njKwUg6oYDEEtLuunTmgbg","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"566"}}
+{"RestaurantID":"ohLIPmzTysowInbte9XhMw","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"567"}}
+{"RestaurantID":"zS4j95rR7PRdFdIfqD2Mmg","Cuisine":"halal"}
+{"index" : { "_index":"indexnew","_id":"568"}}
+{"RestaurantID":"lKxmH-hQ6ezKbq4URKrd-Q","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"569"}}
+{"RestaurantID":"gHdejB1Mx2P5UjAgZ6BT2w","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"570"}}
+{"RestaurantID":"9Ke2V1SJVOPyr4z3Bj4_IQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"571"}}
+{"RestaurantID":"hHzngEBZs7iLE42Zv3MHXg","Cuisine":"culturalcenter"}
+{"index" : { "_index":"indexnew","_id":"572"}}
+{"RestaurantID":"mUoDwXcYPgyHiZ8s-MenhQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"573"}}
+{"RestaurantID":"B55Ocx5RBWxo6AGSucYSIA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"574"}}
+{"RestaurantID":"vjubSxmdG_HoBBgd39geBw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"575"}}
+{"RestaurantID":"LkV96_buOU_n0br4SBO57w","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"576"}}
+{"RestaurantID":"tOqhvINBu3CYNnTQGmxO8g","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"577"}}
+{"RestaurantID":"I-MHi5kmZwyOZnxx8s9SXg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"578"}}
+{"RestaurantID":"WFyGR8sW10AzbAoQ4T7Ung","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"579"}}
+{"RestaurantID":"MdDj13LgIs0WdbIdiyqB7Q","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"580"}}
+{"RestaurantID":"tRb--Cls__cRNRhe4nNpFA","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"581"}}
+{"RestaurantID":"qjCl34rJ0zVUHaZ1irb8FA","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"582"}}
+{"RestaurantID":"M56MQwWsnP8BYgyLZ2WxVg","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"583"}}
+{"RestaurantID":"VaL9GaBR_GR-q9d1VzJF3g","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"584"}}
+{"RestaurantID":"aJJlY5xvqS180wtRIHEWqA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"585"}}
+{"RestaurantID":"y1IO4qD7kTxjBT9WVJldqw","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"586"}}
+{"RestaurantID":"kXnwXZ5KOQmprxNrmXYuxg","Cuisine":"dominican"}
+{"index" : { "_index":"indexnew","_id":"587"}}
+{"RestaurantID":"AyL0Q6_hFD04GLxwRxOFrA","Cuisine":"chickenshop"}
+{"index" : { "_index":"indexnew","_id":"588"}}
+{"RestaurantID":"G9SWgxH65OBQaJaE8dHkbw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"589"}}
+{"RestaurantID":"n_gMJlMQCsexD0jhEE6cZw","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"590"}}
+{"RestaurantID":"5S8ZK9XLdl4l645twbNYZQ","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"591"}}
+{"RestaurantID":"6ycMkuiDwmvJKYbSP-24Cg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"592"}}
+{"RestaurantID":"H5jHfG4ZkNPaG6vojmAXww","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"593"}}
+{"RestaurantID":"wpT1QU7PSQgQQ1DkzI00JA","Cuisine":"tapasmallplates"}
+{"index" : { "_index":"indexnew","_id":"594"}}
+{"RestaurantID":"GTaiNrHK-3afaAGdIKsu1g","Cuisine":"puertorican"}
+{"index" : { "_index":"indexnew","_id":"595"}}
+{"RestaurantID":"jnEv25Y2DosTq2sNnvmC9g","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"596"}}
+{"RestaurantID":"g6R8iwi__IDy8plQy0v9WQ","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"597"}}
+{"RestaurantID":"6gpx42BtqgUdyYe8y9DP4Q","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"598"}}
+{"RestaurantID":"bpjDo7svAFD10eszaOPQHw","Cuisine":"beergardens"}
+{"index" : { "_index":"indexnew","_id":"599"}}
+{"RestaurantID":"m-G7KgMjYvrZNs5Jibfx4Q","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"600"}}
+{"RestaurantID":"1nQZbtmjODUgPm-QQdKrhA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"601"}}
+{"RestaurantID":"z5IMh69DbE7TJ5LFhw_qvQ","Cuisine":"georgian"}
+{"index" : { "_index":"indexnew","_id":"602"}}
+{"RestaurantID":"cOXYWZ_GTX-_ue_kveguRg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"603"}}
+{"RestaurantID":"4fSVJCi8E_OIfIoe6UdqKg","Cuisine":"bbq"}
+{"index" : { "_index":"indexnew","_id":"604"}}
+{"RestaurantID":"gSgfaUH36TarRiV9j3f56Q","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"605"}}
+{"RestaurantID":"hxJxybl8V752Uz9r50I41g","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"606"}}
+{"RestaurantID":"R3fMQtSL0MrMUyW_Q32oNw","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"607"}}
+{"RestaurantID":"5UR7EYPlAW4Zsgaz1tFcOQ","Cuisine":"cheese"}
+{"index" : { "_index":"indexnew","_id":"608"}}
+{"RestaurantID":"BaeUVrAj5f3YF1razW5bow","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"609"}}
+{"RestaurantID":"oqVG2LsTwvRzgJxId5pqiw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"610"}}
+{"RestaurantID":"uYMimeHJ5XBGkyTrg8GXhw","Cuisine":"desserts"}
+{"index" : { "_index":"indexnew","_id":"611"}}
+{"RestaurantID":"xxiV3-0t_gO1Ojo3xo73TQ","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"612"}}
+{"RestaurantID":"FXBrt0VpeBRengdd4fBOZw","Cuisine":"austrian"}
+{"index" : { "_index":"indexnew","_id":"613"}}
+{"RestaurantID":"mofqcbvp-MVFSynU1fQNRA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"614"}}
+{"RestaurantID":"3GMHPnrkFAcqffw3T7JSdQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"615"}}
+{"RestaurantID":"mv3qOn0hKd3Zx9kJYxqFGw","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"616"}}
+{"RestaurantID":"riykDqJw_NPGssLgqCeD-Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"617"}}
+{"RestaurantID":"LZg7F1_HSl3Nmwl54NQtqA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"618"}}
+{"RestaurantID":"LTVNsNBh_0FI8MYrPfjRDQ","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"619"}}
+{"RestaurantID":"rSJAtekGHxeixVpTlOBxyg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"620"}}
+{"RestaurantID":"q9VwJbrN0fGdm4L0oP2X8w","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"621"}}
+{"RestaurantID":"GBJOu9Rk4JqqWjB8ddYudw","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"622"}}
+{"RestaurantID":"kJCjKpwcOFA1fal0fuNVRg","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"623"}}
+{"RestaurantID":"ScFp-0Jk5O79jUMk0Srm9g","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"624"}}
+{"RestaurantID":"kvpSqh3q7r3HK3Tw-wXGEQ","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"625"}}
+{"RestaurantID":"9bAyxRD6RsGEUQw424ovQA","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"626"}}
+{"RestaurantID":"ZgyvDF_hOWas3SXe0Hj7hA","Cuisine":"austrian"}
+{"index" : { "_index":"indexnew","_id":"627"}}
+{"RestaurantID":"xymropCDcEvCYGKC0AKe-w","Cuisine":"filipino"}
+{"index" : { "_index":"indexnew","_id":"628"}}
+{"RestaurantID":"foO2N-TrdPBO-dFn6M35TA","Cuisine":"bagels"}
+{"index" : { "_index":"indexnew","_id":"629"}}
+{"RestaurantID":"lnTPfdaqDqWjywWewsE2Lw","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"630"}}
+{"RestaurantID":"_G5JMPOkU6IG1OKbhw3gXA","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"631"}}
+{"RestaurantID":"Pf3tk5fYN-GVxXWRokjIWg","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"632"}}
+{"RestaurantID":"K9_vumaLO80LXgoPNJJvRQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"633"}}
+{"RestaurantID":"CfOBb6NU2awo8xclJpKU3g","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"634"}}
+{"RestaurantID":"PyEveQQ38dXbqgurQMbICg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"635"}}
+{"RestaurantID":"sRWRA4dcN_NR1JGpuRVouA","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"636"}}
+{"RestaurantID":"7-K0mdCMNDCFPebn5p4s8Q","Cuisine":"wraps"}
+{"index" : { "_index":"indexnew","_id":"637"}}
+{"RestaurantID":"eRtceh_W_yniAfCqJni5Bg","Cuisine":"japacurry"}
+{"index" : { "_index":"indexnew","_id":"638"}}
+{"RestaurantID":"q8myw-sQtrmn0w-tKSC5cA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"639"}}
+{"RestaurantID":"T-RXDLq_VEv7s1_SooYIYQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"640"}}
+{"RestaurantID":"eTR6nfHvQzvKX7Dcd6JrfA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"641"}}
+{"RestaurantID":"eN8Cmf0Vxucyg02NyP7mbw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"642"}}
+{"RestaurantID":"onGzhRqmlmYixXljTT3QVQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"643"}}
+{"RestaurantID":"B-MDhRKRTmTqj4Vp_p8AGw","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"644"}}
+{"RestaurantID":"G77Q6kU-7qRefColCRTS0w","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"645"}}
+{"RestaurantID":"Fm6RK2n3qF8F75-t3nHR-Q","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"646"}}
+{"RestaurantID":"Iecc3o2fy5vprsGZOeD1iw","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"647"}}
+{"RestaurantID":"uBGjcW-GuYy_qSvMykuISA","Cuisine":"belgian"}
+{"index" : { "_index":"indexnew","_id":"648"}}
+{"RestaurantID":"d79AROdlfw0Zzj5nRpUIxw","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"649"}}
+{"RestaurantID":"rpIMYwZhRJZKl0-AUgUrjw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"650"}}
+{"RestaurantID":"HodL0fXoF08C3Ir-kLeTtw","Cuisine":"pastashops"}
+{"index" : { "_index":"indexnew","_id":"651"}}
+{"RestaurantID":"qs5x7OfTtpgQ4xQeN7N4Iw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"652"}}
+{"RestaurantID":"Dv28TvKBh_8i6W02uAaMKw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"653"}}
+{"RestaurantID":"4cRcIOC8bKiaSA_7hYVW2A","Cuisine":"streetvendors"}
+{"index" : { "_index":"indexnew","_id":"654"}}
+{"RestaurantID":"3BbKR2GURXEXihFrDYqQkg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"655"}}
+{"RestaurantID":"i-HGZmxvw-4PwSNO4uumpg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"656"}}
+{"RestaurantID":"5gVOw3RTaZ-NavNQx2M83g","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"657"}}
+{"RestaurantID":"xpu4JnJjV_yHC37pmfMDHw","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"658"}}
+{"RestaurantID":"7JE_eakyBw4Ei3GrLFIdrg","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"659"}}
+{"RestaurantID":"OZHywdX0bT2MCmyUHoQNHA","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"660"}}
+{"RestaurantID":"RszJexNjHiS1As9cJ7eWpQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"661"}}
+{"RestaurantID":"4h4Tuuc56YPO6lWfZ1bdSQ","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"662"}}
+{"RestaurantID":"MfnC_MUwlTdK6APTbnvmCw","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"663"}}
+{"RestaurantID":"00kdvS6FY0gTN5BV03tx5Q","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"664"}}
+{"RestaurantID":"yihja79D40NH8J6acX1Xwg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"665"}}
+{"RestaurantID":"p5g5P-t-iAvHAxJvI6KUPg","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"666"}}
+{"RestaurantID":"6gzQLjzJk25ePm_JS7ZAug","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"667"}}
+{"RestaurantID":"vNThH1YBC0OjgzEx_AJvMw","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"668"}}
+{"RestaurantID":"1-Z1i8FXB8jBXLnT71ekGw","Cuisine":"desserts"}
+{"index" : { "_index":"indexnew","_id":"669"}}
+{"RestaurantID":"Swjm9no7DRqhThLlf0EHng","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"670"}}
+{"RestaurantID":"C5tqSSgVPfgtsJn3QnvDiQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"671"}}
+{"RestaurantID":"EY8-tNT_txiVY8voyfoydQ","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"672"}}
+{"RestaurantID":"LOZ0SaAh2uAMkRD47j6bhQ","Cuisine":"izakaya"}
+{"index" : { "_index":"indexnew","_id":"673"}}
+{"RestaurantID":"iUqWxpmnobBfFFVMraK0tw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"674"}}
+{"RestaurantID":"Zp-K3ztVTzR-LrWwl_CBgA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"675"}}
+{"RestaurantID":"xJuKTbInUnTsLINLLH8ehw","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"676"}}
+{"RestaurantID":"l6jWv3uFr0I954vcCUMEyg","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"677"}}
+{"RestaurantID":"k9i7G5WBJV-ohHyvHP7FAg","Cuisine":"modern_european"}
+{"index" : { "_index":"indexnew","_id":"678"}}
+{"RestaurantID":"5TX0X8w5ssIACU_pnBEq6g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"679"}}
+{"RestaurantID":"KcOeFHAojaRDV-DxQJkfPA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"680"}}
+{"RestaurantID":"oZQV-z8zE8OY08pwN_2M9Q","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"681"}}
+{"RestaurantID":"LVkBYW-FNaZ2h-0zB8-vzA","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"682"}}
+{"RestaurantID":"CZhWwJT5g84NahAE6hfDcw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"683"}}
+{"RestaurantID":"1raTNJpNeTOLLJsm5YY1mA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"684"}}
+{"RestaurantID":"DidyPs3Zx7MxsaN0RYpygQ","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"685"}}
+{"RestaurantID":"TWH4MjLtN1fKlF-7n6YXHg","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"686"}}
+{"RestaurantID":"6BHKPn6QtTJ0lTZonI-WgQ","Cuisine":"fondue"}
+{"index" : { "_index":"indexnew","_id":"687"}}
+{"RestaurantID":"gDCK63W5_8-tdCCWr92rbw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"688"}}
+{"RestaurantID":"fHHpSKT9u7PQBYaMW5cEkA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"689"}}
+{"RestaurantID":"SXWnyFNLCehVlJPRxk7gAg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"690"}}
+{"RestaurantID":"5k_jwjhdFMPUNWhouGNzuA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"691"}}
+{"RestaurantID":"hJrZIHNRVUuC_PXAORxj9g","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"692"}}
+{"RestaurantID":"h91WSlCOdxaQOohJ0YVkxA","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"693"}}
+{"RestaurantID":"pil3w2-2REoXBwEToYZ_tQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"694"}}
+{"RestaurantID":"7pWF8zJ26goQRqdlzvW9Qw","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"695"}}
+{"RestaurantID":"iKW9zBGWfE9CM6MfK0UtjA","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"696"}}
+{"RestaurantID":"xGNzAsakHgbbl9fwgSoiUg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"697"}}
+{"RestaurantID":"AEHojbCPCrIhTko7olaqTg","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"698"}}
+{"RestaurantID":"hMYmltnpmQn_4BcM24J4FA","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"699"}}
+{"RestaurantID":"E3MkTTS4ZDjWV9YT5i6eUg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"700"}}
+{"RestaurantID":"00V7oJIc_wZKM2cjGrL1HQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"701"}}
+{"RestaurantID":"be7zagjfrCYN9EQ5ijld5w","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"702"}}
+{"RestaurantID":"S4uozcDEieoaXxIJ6TsUoQ","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"703"}}
+{"RestaurantID":"C3tP0fNNAoxOAC3O406CXQ","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"704"}}
+{"RestaurantID":"YpIedbRiIE30QCGJiTx0ng","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"705"}}
+{"RestaurantID":"7r6NoHRjQKhkZlIcODZJwg","Cuisine":"hkcafe"}
+{"index" : { "_index":"indexnew","_id":"706"}}
+{"RestaurantID":"sHSCUGKAUR9gYThXlginkA","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"707"}}
+{"RestaurantID":"H1jops1lmuhrq9lP7lEGJQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"708"}}
+{"RestaurantID":"pou1-d7PENs6AD4mnt9P4g","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"709"}}
+{"RestaurantID":"gvMYV5E3HyzhN_MYFIMGzg","Cuisine":"spanish"}
+{"index" : { "_index":"indexnew","_id":"710"}}
+{"RestaurantID":"b6Tpm0PsDqLYZFUuqNte-g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"711"}}
+{"RestaurantID":"9FTh2OLCozH4-UmCx4kpgA","Cuisine":"venezuelan"}
+{"index" : { "_index":"indexnew","_id":"712"}}
+{"RestaurantID":"HuU2IGPfQ23FTOGDQg0Ieg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"713"}}
+{"RestaurantID":"f48yzy50jQDH7X5xFAluOw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"714"}}
+{"RestaurantID":"J0OeDwmh5JBhid0A5GvltA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"715"}}
+{"RestaurantID":"hKkPlYmHoS9Nb_UbGGqx8A","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"716"}}
+{"RestaurantID":"Z-PSo5FDabBZFfep5l2xRg","Cuisine":"modern_european"}
+{"index" : { "_index":"indexnew","_id":"717"}}
+{"RestaurantID":"nGpC40fxoDQ-Ft0h-_gkVg","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"718"}}
+{"RestaurantID":"G7ohQ66xQjdV9Zkp4FwByw","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"719"}}
+{"RestaurantID":"3Ic4C60oSH1cV2jknUXSjQ","Cuisine":"lounges"}
+{"index" : { "_index":"indexnew","_id":"720"}}
+{"RestaurantID":"kpxXi23lUQkeJQH-2BtzDw","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"721"}}
+{"RestaurantID":"Aaq-nph44s6nLmHzRyOoOA","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"722"}}
+{"RestaurantID":"nnMEtKLL0lyaXyXACRkVEQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"723"}}
+{"RestaurantID":"zcPWqsiqaPpNh8nJXR4gpw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"724"}}
+{"RestaurantID":"VIg6EKndVDPtGNbeth41Rg","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"725"}}
+{"RestaurantID":"edoYWAuw3lCsNAUr_8id2w","Cuisine":"bbq"}
+{"index" : { "_index":"indexnew","_id":"726"}}
+{"RestaurantID":"OYKNRBU-unLF-r0bRZwY3A","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"727"}}
+{"RestaurantID":"WIj12zDqIbBucW1hXYhrew","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"728"}}
+{"RestaurantID":"Ctz5lsMnn-oT-9u0C0D-gw","Cuisine":"jazzandblues"}
+{"index" : { "_index":"indexnew","_id":"729"}}
+{"RestaurantID":"CKNp_0BwK6xRcNGHj5sUEQ","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"730"}}
+{"RestaurantID":"OgM6WwztLVavBQBmb_g5aw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"731"}}
+{"RestaurantID":"KogxM0x2p9auUyU4h4CAqQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"732"}}
+{"RestaurantID":"hvrQQ0YWqgw0__OnofqXag","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"733"}}
+{"RestaurantID":"gTVg1OTkZ-uCVZ12XPbi1Q","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"734"}}
+{"RestaurantID":"xYDays-olVw50rdusxW5Rw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"735"}}
+{"RestaurantID":"f5dFlU07GvgqIEIyddj5Xw","Cuisine":"taiwanese"}
+{"index" : { "_index":"indexnew","_id":"736"}}
+{"RestaurantID":"UKy0nNjMkOBEU3dOCH831w","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"737"}}
+{"RestaurantID":"al9HKZ3kCJipAJW4uxzj4A","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"738"}}
+{"RestaurantID":"GxMhN2PEttvw7CRGIzB6Gg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"739"}}
+{"RestaurantID":"oPnevA65o9F6WDWp7nLR2w","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"740"}}
+{"RestaurantID":"-uFZBf1W94vyDQqqWXWdHw","Cuisine":"creperies"}
+{"index" : { "_index":"indexnew","_id":"741"}}
+{"RestaurantID":"alFl7eiu6Go-YxZAdp88Fw","Cuisine":"japacurry"}
+{"index" : { "_index":"indexnew","_id":"742"}}
+{"RestaurantID":"BQcgpQxUM39PMO_YDl_CqA","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"743"}}
+{"RestaurantID":"tM8ZtEix8Bxg82AIKsHXcw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"744"}}
+{"RestaurantID":"7szsAtxOkGJ2ady3Qx7v4w","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"745"}}
+{"RestaurantID":"DEp-9JVnKN7eTb9A_mUlfA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"746"}}
+{"RestaurantID":"gqUR7hd3NsxOD_JrD-iFfQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"747"}}
+{"RestaurantID":"s_YuHngBngWwzpcKNIM71A","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"748"}}
+{"RestaurantID":"Qi7pmy2BuR5Oz2ouXa2u4A","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"749"}}
+{"RestaurantID":"l0vT-Cw6JBmhhJhCOT8b0Q","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"750"}}
+{"RestaurantID":"k5fd-RSdG4IuXnnGSQ5oOw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"751"}}
+{"RestaurantID":"_qGBxhZBLf4qM9fsfKRdzA","Cuisine":"conveyorsushi"}
+{"index" : { "_index":"indexnew","_id":"752"}}
+{"RestaurantID":"LWDX1jKrNE8334jF6XenYQ","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"753"}}
+{"RestaurantID":"_0WFGjXuenlBixOlbSlGeQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"754"}}
+{"RestaurantID":"aSFBv64GBpMOFPqIleeQFQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"755"}}
+{"RestaurantID":"U2c3OjUrsKu42h_xkvz5Tw","Cuisine":"hotels"}
+{"index" : { "_index":"indexnew","_id":"756"}}
+{"RestaurantID":"nXQzSDnFKvzotm8pRpBYqA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"757"}}
+{"RestaurantID":"4yPqqJDJOQX69gC66YUDkA","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"758"}}
+{"RestaurantID":"0yMlU3xbdawYFXmjNc0dhw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"759"}}
+{"RestaurantID":"N90gLDq4XgqYanlRqaeNKg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"760"}}
+{"RestaurantID":"JheRE_1kSTxCq7oyLi89Mw","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"761"}}
+{"RestaurantID":"IjQ2yGUKkvP0JIldT9vRFQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"762"}}
+{"RestaurantID":"ZjU9qd-RR55cEEKufmdN5Q","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"763"}}
+{"RestaurantID":"8vDBwBThldNxqvQ7ur1Uzw","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"764"}}
+{"RestaurantID":"Li52Rr6BM4bGNYdpn7H8_w","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"765"}}
+{"RestaurantID":"HPwH6d3yshPeF0pywgDfSw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"766"}}
+{"RestaurantID":"q0hMNf-YhfDMFQyUQdsIJg","Cuisine":"argentine"}
+{"index" : { "_index":"indexnew","_id":"767"}}
+{"RestaurantID":"Xc-FSZDqhMEI5-dc7eiu8Q","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"768"}}
+{"RestaurantID":"v8_MaF5d2u5qZ6evINBsig","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"769"}}
+{"RestaurantID":"11VeHNc-R3PiLxQKK3_mig","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"770"}}
+{"RestaurantID":"91tQ4ToReVVCA5MTJi9gfw","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"771"}}
+{"RestaurantID":"48nRODGl30EWpYMcCTOeAw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"772"}}
+{"RestaurantID":"lv6ndaUChoqQ1g_TECir0Q","Cuisine":"hotdogs"}
+{"index" : { "_index":"indexnew","_id":"773"}}
+{"RestaurantID":"V3dHB6xAdd8_dH7t481PAw","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"774"}}
+{"RestaurantID":"LWKP6KiGzmjDZMPYUzE9yg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"775"}}
+{"RestaurantID":"b2JQaXDdMihqjUPh0eZ2yw","Cuisine":"african"}
+{"index" : { "_index":"indexnew","_id":"776"}}
+{"RestaurantID":"Vx9jsY90nQ9PCKBa1aCt9w","Cuisine":"diners"}
+{"index" : { "_index":"indexnew","_id":"777"}}
+{"RestaurantID":"T1kOqFdwiA_CzSaug-Za7Q","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"778"}}
+{"RestaurantID":"tnxb_qM5e7J5wIfYwJB3Ig","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"779"}}
+{"RestaurantID":"wb06aCfVIf8I8ufPJ5zflg","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"780"}}
+{"RestaurantID":"ZaJS8EKQNSaQpwpmgN-vVw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"781"}}
+{"RestaurantID":"VxMT2lqRY9wZOxVaXupltQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"782"}}
+{"RestaurantID":"6KWuxjK1ey72cW8LVuoV5A","Cuisine":"shanghainese"}
+{"index" : { "_index":"indexnew","_id":"783"}}
+{"RestaurantID":"zo4mcEfVKaktdj_gnSFhGQ","Cuisine":"german"}
+{"index" : { "_index":"indexnew","_id":"784"}}
+{"RestaurantID":"mjGdtrh0tX7I91GM9dlMNg","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"785"}}
+{"RestaurantID":"eMSTTuOUlKEnSOr8lPp3Xg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"786"}}
+{"RestaurantID":"Wx6lMnEh7dCmX-9PQF1Ifw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"787"}}
+{"RestaurantID":"_bu8jFlBWw3SRQ0Rh8oTLA","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"788"}}
+{"RestaurantID":"hMd4Z5j1I25ffLm81MeluQ","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"789"}}
+{"RestaurantID":"N5UY113nNpeKdLPv0cbMjQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"790"}}
+{"RestaurantID":"JXcYD52B4190gIh6_RSXCg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"791"}}
+{"RestaurantID":"FgPvSR_42MtGKy0_n055iw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"792"}}
+{"RestaurantID":"WoMVwgn3E265w37gAM4BRQ","Cuisine":"speakeasies"}
+{"index" : { "_index":"indexnew","_id":"793"}}
+{"RestaurantID":"tFAozE7NNbypnrr5zEt0bQ","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"794"}}
+{"RestaurantID":"An1_BlhLJDZomxI91SBv7g","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"795"}}
+{"RestaurantID":"0ijJgm5P9BygsuQKV4saNw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"796"}}
+{"RestaurantID":"1m1iOc8EplJ4tiCez7hf2Q","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"797"}}
+{"RestaurantID":"8WnHtvMdPWE66eSkUdbLhQ","Cuisine":"filipino"}
+{"index" : { "_index":"indexnew","_id":"798"}}
+{"RestaurantID":"KW5ScWQd16gJ9yLf4pKDvQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"799"}}
+{"RestaurantID":"8prcl4Adt88JLQVzL74xeQ","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"800"}}
+{"RestaurantID":"v7mKkgT84i6shnKRhxa1aQ","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"801"}}
+{"RestaurantID":"SKoMUaQewpMdj1Mg8QvBNw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"802"}}
+{"RestaurantID":"XQiIGgSjx3wIxvvzOZP9Cw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"803"}}
+{"RestaurantID":"vYB5bZOJQkmBquzQ8D23-w","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"804"}}
+{"RestaurantID":"v8G2Tik6eXhS63Es_4sveA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"805"}}
+{"RestaurantID":"Vs8kQ4R381y27AH018gLpg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"806"}}
+{"RestaurantID":"ssGhu4n3emZ9kEPVf371IQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"807"}}
+{"RestaurantID":"GktRnSCBAsboHj9Hh-U66g","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"808"}}
+{"RestaurantID":"OLSSJIp8pu5UlugTF7tuHA","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"809"}}
+{"RestaurantID":"BQRfaq0U75B5EEblBZ2Aqg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"810"}}
+{"RestaurantID":"hKdvsbuQRtjajWYwjaoOQw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"811"}}
+{"RestaurantID":"kJExyhre8kocF5gI9y4IDA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"812"}}
+{"RestaurantID":"ZamvzoxEKiJEboO0ZUdogw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"813"}}
+{"RestaurantID":"Xl-zlT0NLLiKhym88em22w","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"814"}}
+{"RestaurantID":"qKfD10PsDKP_9B7O1_7oJQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"815"}}
+{"RestaurantID":"LoGeKb09bTMawk9xstb-hQ","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"816"}}
+{"RestaurantID":"Rw4m0AKl1hIkRZMVQ3ueXw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"817"}}
+{"RestaurantID":"3paq_lNru7Dkdjg5q97UAw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"818"}}
+{"RestaurantID":"FavssEgZjXFi2unEXePkVQ","Cuisine":"juicebars"}
+{"index" : { "_index":"indexnew","_id":"819"}}
+{"RestaurantID":"mUl0wtO7tPkBocuJqZ-7Dw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"820"}}
+{"RestaurantID":"lSQAmoQtmciUld36ogOoOw","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"821"}}
+{"RestaurantID":"J0c8ZtHPf08TMVeojPkNkQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"822"}}
+{"RestaurantID":"1LIptXhtDh58vAA-QPFL4w","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"823"}}
+{"RestaurantID":"sCx8tslal3pMurNyGFVjMQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"824"}}
+{"RestaurantID":"KpBfFpjzsGvvqAzCasVW0g","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"825"}}
+{"RestaurantID":"J2l2NeFmAKQPZarkMC9Ryw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"826"}}
+{"RestaurantID":"yl214H_cUd1intjVAeE1Mw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"827"}}
+{"RestaurantID":"7_hGsGEkHrjgAiYVjrCFnw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"828"}}
+{"RestaurantID":"FwUeXKY9oGSYYg2M3ZdMuQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"829"}}
+{"RestaurantID":"l7G5tDA96xbA_bx1ZgkOeg","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"830"}}
+{"RestaurantID":"kHeakps7Gj8EaImiOYaX8g","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"831"}}
+{"RestaurantID":"zwOAiVT4pAmpNGXzj-t5MA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"832"}}
+{"RestaurantID":"IQhtCTvorekeqbJr4Zf0Lg","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"833"}}
+{"RestaurantID":"PszZvrDqzgPpl6SQuk3K9Q","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"834"}}
+{"RestaurantID":"KsL5NiDX1k-m-5V35SGg8Q","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"835"}}
+{"RestaurantID":"4axlhxyN2bKuRWfnY2IhuQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"836"}}
+{"RestaurantID":"c0qP9-q1sCDaWsGG8X2WWQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"837"}}
+{"RestaurantID":"ZdhzqQd3haOn1eAiwH2WDw","Cuisine":"foodtrucks"}
+{"index" : { "_index":"indexnew","_id":"838"}}
+{"RestaurantID":"WIe7Qi3uOoMKU2ZbHfTGew","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"839"}}
+{"RestaurantID":"1jAB_uaI8-P_wSqOo2S3KQ","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"840"}}
+{"RestaurantID":"zUv1BNm_a9-3DkxrCG3tng","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"841"}}
+{"RestaurantID":"hDj_0pbi4mFR5p1H1w6igw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"842"}}
+{"RestaurantID":"nksLmvyhPeMDeaA2BPaC4A","Cuisine":"greek"}
+{"index" : { "_index":"indexnew","_id":"843"}}
+{"RestaurantID":"C6T55obifP9Qb3gTI-8Tog","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"844"}}
+{"RestaurantID":"kSI-wgcYYfpcHcgDrbKIfg","Cuisine":"cajun"}
+{"index" : { "_index":"indexnew","_id":"845"}}
+{"RestaurantID":"3zbz9kLrLKHCBeGrNhMMGA","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"846"}}
+{"RestaurantID":"-ic13XJ9ekpEfshQFPKL4A","Cuisine":"haitian"}
+{"index" : { "_index":"indexnew","_id":"847"}}
+{"RestaurantID":"hyEyUk9GOwxlco3w-WU9gA","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"848"}}
+{"RestaurantID":"NVMdf02l1GuzzDb7ESI_qQ","Cuisine":"himalayan"}
+{"index" : { "_index":"indexnew","_id":"849"}}
+{"RestaurantID":"PYmjoid5P-Mw8dkkKxZy6w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"850"}}
+{"RestaurantID":"Zc7Jbuwe3XO-EaVXIh_TYQ","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"851"}}
+{"RestaurantID":"qtdR-eDXwbzWQvUzVXQE6w","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"852"}}
+{"RestaurantID":"bL_SxpTTk8Y25mRFmhap6w","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"853"}}
+{"RestaurantID":"nU4XBdvxDABXqZ6CnB8Dig","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"854"}}
+{"RestaurantID":"_saXnBy0Wq2Gb3YusWZhqw","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"855"}}
+{"RestaurantID":"r6r-XK_wL02FQdAgaauTxg","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"856"}}
+{"RestaurantID":"KiXm1maUAxSKhBG4KKiKlA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"857"}}
+{"RestaurantID":"g512kssHLLTdDbUJHTmJFw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"858"}}
+{"RestaurantID":"UFTpW_SOU7LPay7kzsg5Uw","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"859"}}
+{"RestaurantID":"4TQMO6AaKSXHMbKvGAf-gg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"860"}}
+{"RestaurantID":"j9TdOBSQ1LRw8v3hW5fObQ","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"861"}}
+{"RestaurantID":"GWO-RZytuDw-j4aMFtAzsQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"862"}}
+{"RestaurantID":"oMtJwDxuuxZPvGMgHOoAbQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"863"}}
+{"RestaurantID":"6eVNHrnp67ZniJYLik1qig","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"864"}}
+{"RestaurantID":"Pn5B8A4P23d5_FE6y8A2wA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"865"}}
+{"RestaurantID":"S4NqVVRJlsepZgcCoS5jkw","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"866"}}
+{"RestaurantID":"Rb0wYM83GifC-P1Rqd23Bg","Cuisine":"african"}
+{"index" : { "_index":"indexnew","_id":"867"}}
+{"RestaurantID":"mqoiTzsqtuMoWTHJbxYQuQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"868"}}
+{"RestaurantID":"xeC9vn3dxVVzAMR_aFwfXg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"869"}}
+{"RestaurantID":"MNNpsRXe7Wt5m3Jla9Wk0w","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"870"}}
+{"RestaurantID":"hKChLzaG8tyrSrg3U_wRNw","Cuisine":"venues"}
+{"index" : { "_index":"indexnew","_id":"871"}}
+{"RestaurantID":"QrJwnaLI1BurPgSJdUYptA","Cuisine":"burgers"}
+{"index" : { "_index":"indexnew","_id":"872"}}
+{"RestaurantID":"FaR-Kv-0ZzgcqFW1sCnacw","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"873"}}
+{"RestaurantID":"96svxj2NIOrba2fBMZAqOQ","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"874"}}
+{"RestaurantID":"vec8jeVbbSGzVlStl0Xp_Q","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"875"}}
+{"RestaurantID":"abNHO9-xlCsv31gghCUuxw","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"876"}}
+{"RestaurantID":"iOTMYkE88Exg9lMtgUuCVA","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"877"}}
+{"RestaurantID":"t-Pm38_XhMnGfOYgkhaNRA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"878"}}
+{"RestaurantID":"-aievhVzik4nHkxQFXFUrg","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"879"}}
+{"RestaurantID":"wnyX_yg4ddSDkupwFKftIA","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"880"}}
+{"RestaurantID":"Gy-0WM4CZp39vmjIr9MbDw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"881"}}
+{"RestaurantID":"s5JNxy0eAFgxS2Poi73ODw","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"882"}}
+{"RestaurantID":"Felr31BySdIEOFl-U6AAUg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"883"}}
+{"RestaurantID":"HD0e3eHwv573qHZOJJitWg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"884"}}
+{"RestaurantID":"gtXP0CmOnBbgfnff7VXa7A","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"885"}}
+{"RestaurantID":"nKjEA5nW5zm2MjD2ukdTtQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"886"}}
+{"RestaurantID":"E8RE6fvsR1NsXodJiILHAA","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"887"}}
+{"RestaurantID":"1ux5rxwWjKxoXHUyGynwSg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"888"}}
+{"RestaurantID":"OOAFPiztVlStZIUDwcixqA","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"889"}}
+{"RestaurantID":"5MpWHGQ6Qc-M4q1KL_nioA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"890"}}
+{"RestaurantID":"WBPbYPBrha8jxeUuqreYpQ","Cuisine":"brasseries"}
+{"index" : { "_index":"indexnew","_id":"891"}}
+{"RestaurantID":"X8yEmEDD9ZTkHoIRFqzcRw","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"892"}}
+{"RestaurantID":"6f1C0xuK5S5Zqy29_SmAvg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"893"}}
+{"RestaurantID":"Sri-kDbSGsPPQJyp8eomKg","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"894"}}
+{"RestaurantID":"U2EvUcS9KtXDv_Yw3cugiw","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"895"}}
+{"RestaurantID":"JqrnqiYg6Ak_yMS-tO2TAw","Cuisine":"ramen"}
+{"index" : { "_index":"indexnew","_id":"896"}}
+{"RestaurantID":"d8qCvlsG3jwxQPZc_OGogQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"897"}}
+{"RestaurantID":"OWNmOq-TAsHjGcYdCVclSw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"898"}}
+{"RestaurantID":"fFkqEyupjc5x2iJQIPcpLw","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"899"}}
+{"RestaurantID":"flcy6dNr4s12PTv6VtBK9Q","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"900"}}
+{"RestaurantID":"Xu8H24NxJJxEE-9wGp_AMA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"901"}}
+{"RestaurantID":"0GN6l4FAknTFSWZhEan45A","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"902"}}
+{"RestaurantID":"n2xFYgwuo1-ToqNnCkvdtg","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"903"}}
+{"RestaurantID":"-mEDJYgrnRSitBRv9u6LMw","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"904"}}
+{"RestaurantID":"q45SMZfNrF4XZZWzIC4tGw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"905"}}
+{"RestaurantID":"r2tM5A3YU8m1prp-ji5KAQ","Cuisine":"greek"}
+{"index" : { "_index":"indexnew","_id":"906"}}
+{"RestaurantID":"cp5k0PKl236X0xaNDYR5Zw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"907"}}
+{"RestaurantID":"tkmIXzaA-pLBWeH_sQDsqQ","Cuisine":"delis"}
+{"index" : { "_index":"indexnew","_id":"908"}}
+{"RestaurantID":"Aw69I2eD-lYffytWGGYM8A","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"909"}}
+{"RestaurantID":"ADul90IX8-TdDaciLIS6pA","Cuisine":"brazilian"}
+{"index" : { "_index":"indexnew","_id":"910"}}
+{"RestaurantID":"TULCjzJjDMlpruzjCcB9rw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"911"}}
+{"RestaurantID":"Dw0D3560Yt3pQtdm74gGeQ","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"912"}}
+{"RestaurantID":"md5mjDamLsh1uxHDU9PfGA","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"913"}}
+{"RestaurantID":"vb-8neuGi8GPDTTnT2WO7g","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"914"}}
+{"RestaurantID":"XipQLDbyTl5tsLlyzAWzug","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"915"}}
+{"RestaurantID":"pjBDqn25X3The5AhZD3glw","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"916"}}
+{"RestaurantID":"Kqb7MjTPNkjPMoFRd-rWpw","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"917"}}
+{"RestaurantID":"Ucg3flg-2tJAahEePIoigQ","Cuisine":"lebanese"}
+{"index" : { "_index":"indexnew","_id":"918"}}
+{"RestaurantID":"eb6KHglt70janbTewtIi4A","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"919"}}
+{"RestaurantID":"kDJbzzmCEjFbyDQ-lSygvw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"920"}}
+{"RestaurantID":"86oUnSZUX2ZdP1iHqYn8Hw","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"921"}}
+{"RestaurantID":"IaKzW5PcmHGklEhAy_9hMQ","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"922"}}
+{"RestaurantID":"8QnDeEDw4PUTxjsfflrrwg","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"923"}}
+{"RestaurantID":"f7jZvRH-h76F4emzvKytaQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"924"}}
+{"RestaurantID":"7xV4gzrgaOgQYtPC3FBZig","Cuisine":"greek"}
+{"index" : { "_index":"indexnew","_id":"925"}}
+{"RestaurantID":"DW5SL9RM-kJnmRyYo4oEqg","Cuisine":"breakfast_brunch"}
+{"index" : { "_index":"indexnew","_id":"926"}}
+{"RestaurantID":"xrZWbxETIF8qj6h4uvhJrQ","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"927"}}
+{"RestaurantID":"bVkjBJlAIwKAj9Aw1KVWjA","Cuisine":"dimsum"}
+{"index" : { "_index":"indexnew","_id":"928"}}
+{"RestaurantID":"U5hCNNyJmb7f3dmC1HTzSQ","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"929"}}
+{"RestaurantID":"0Lnp_fi3gI2bfJ8RcMDfjg","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"930"}}
+{"RestaurantID":"syNFp2qrQtXfH4bskQVgaA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"931"}}
+{"RestaurantID":"OqNmzS2N2I750zYgUC6IgA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"932"}}
+{"RestaurantID":"JrJRfpGicISz_Gt9LkPMvw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"933"}}
+{"RestaurantID":"O-n0wC7S1klkEsapuxhO_Q","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"934"}}
+{"RestaurantID":"GuzlMBKNoClNx5I1-x-DDg","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"935"}}
+{"RestaurantID":"Y0LXC1uwsfh5h2WWofjs3g","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"936"}}
+{"RestaurantID":"Pr-q47vsmM4aoc2t_Sfk8w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"937"}}
+{"RestaurantID":"-pcCiCeyK4cvLtnkcF9T5Q","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"938"}}
+{"RestaurantID":"nlmFAz_93gjSUfmvmv8Tog","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"939"}}
+{"RestaurantID":"IYwz7ck1OZCoZqW0F31pLg","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"940"}}
+{"RestaurantID":"IjygKmi3dhRyBe-MV9rXFw","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"941"}}
+{"RestaurantID":"SmLFW1Ncg26KfVRVX3GVFQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"942"}}
+{"RestaurantID":"PwrYnl3j3YCGzILX_5UHpw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"943"}}
+{"RestaurantID":"CgYWuNH0UHd5vp2vGgKflw","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"944"}}
+{"RestaurantID":"u9cPw1APoMeUNXoEyjLoag","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"945"}}
+{"RestaurantID":"6kdY3hLD4iQs3nAi5-rOgA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"946"}}
+{"RestaurantID":"3g9SHbgTEyBgSH5ciWZPFQ","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"947"}}
+{"RestaurantID":"kTQ0rRfgtlPwX9_O8OY_UA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"948"}}
+{"RestaurantID":"tvqtAjAyc7dplVVwhw3VZQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"949"}}
+{"RestaurantID":"7zjeUx9aWRGpJmiOuk45zw","Cuisine":"cuban"}
+{"index" : { "_index":"indexnew","_id":"950"}}
+{"RestaurantID":"OBRYVNn2FRhVCCadoFepBQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"951"}}
+{"RestaurantID":"LfRiA6RORToZUSJUHkZBVA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"952"}}
+{"RestaurantID":"-2UtjTxrt1Xzd-HPsLJ7mA","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"953"}}
+{"RestaurantID":"j0n_poMVZnODYOFviLbh0Q","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"954"}}
+{"RestaurantID":"U74_3F7r3tMhd6dmTmDBxQ","Cuisine":"asianfusion"}
+{"index" : { "_index":"indexnew","_id":"955"}}
+{"RestaurantID":"8wMJdpw2R_4VfS55itB_gQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"956"}}
+{"RestaurantID":"Dqu-5RxNbbpBsL1Ssht9Ng","Cuisine":"noodles"}
+{"index" : { "_index":"indexnew","_id":"957"}}
+{"RestaurantID":"zBButa4blgIhHru9B2qMrw","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"958"}}
+{"RestaurantID":"IoPJ1I0eQn6wnrFAoqFXOw","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"959"}}
+{"RestaurantID":"H5cufvP4OBsR940J8tegXQ","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"960"}}
+{"RestaurantID":"CVxz9B5ncpMwVK1bk_c1YA","Cuisine":"diners"}
+{"index" : { "_index":"indexnew","_id":"961"}}
+{"RestaurantID":"IErfGS0DASSJfYU73m0Sqg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"962"}}
+{"RestaurantID":"m86CNmYThtzzWB3nPnrhbg","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"963"}}
+{"RestaurantID":"Uut2fBy53XdIgx1rLWdQeg","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"964"}}
+{"RestaurantID":"Z_fT0KLZV3y80LHUMlmbig","Cuisine":"indpak"}
+{"index" : { "_index":"indexnew","_id":"965"}}
+{"RestaurantID":"yc4vsT-Q4Ej1_9hr94DxkQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"966"}}
+{"RestaurantID":"mrjlHa9RgP7kQDuGluyagQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"967"}}
+{"RestaurantID":"AL6fZwfds_gVsKgCha4oMg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"968"}}
+{"RestaurantID":"80jmHsdVmeYxaoAHaegKyQ","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"969"}}
+{"RestaurantID":"d_rQ-nVpY6Z5C722Q5wpog","Cuisine":"sandwiches"}
+{"index" : { "_index":"indexnew","_id":"970"}}
+{"RestaurantID":"vWoT1h8E2eWvIdJqpuxfdg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"971"}}
+{"RestaurantID":"AcipVtCZ68bUNdsPOpa_JA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"972"}}
+{"RestaurantID":"pSSajdYNKTyAGV8-fk7fWQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"973"}}
+{"RestaurantID":"6AWiJUeP4FINQF48az-bkQ","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"974"}}
+{"RestaurantID":"KenUip4W38fN4Ua9WxsohA","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"975"}}
+{"RestaurantID":"ohdqh_H46BBgYQ7W4UdqZQ","Cuisine":"gastropubs"}
+{"index" : { "_index":"indexnew","_id":"976"}}
+{"RestaurantID":"SChgaLrQNKLd-Noei1Tocw","Cuisine":"caribbean"}
+{"index" : { "_index":"indexnew","_id":"977"}}
+{"RestaurantID":"5Akss-swwfyoSVeIsDBbvw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"978"}}
+{"RestaurantID":"MDMw0HFK3rgeGRl-FZC9Fg","Cuisine":"vietnamese"}
+{"index" : { "_index":"indexnew","_id":"979"}}
+{"RestaurantID":"oT6z_r5S2i_sTxjU1E5SHQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"980"}}
+{"RestaurantID":"yGFQFm3O9vCsKTVpvmDuGg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"981"}}
+{"RestaurantID":"gZz9A8k8ORC_xl0aHxtY4w","Cuisine":"tradamerican"}
+{"index" : { "_index":"indexnew","_id":"982"}}
+{"RestaurantID":"w-3_uv4V6hTN4iSDEW1wKA","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"983"}}
+{"RestaurantID":"ZDMEeB9lZU-bYKUeEJD5XQ","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"984"}}
+{"RestaurantID":"xEnNFXtMLDF5kZDxfaCJgA","Cuisine":"foodstands"}
+{"index" : { "_index":"indexnew","_id":"985"}}
+{"RestaurantID":"WHE1JDOyR_ifwmXZnvd_XQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"986"}}
+{"RestaurantID":"RblOaX5732Y6r1OtVoHOVA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"987"}}
+{"RestaurantID":"BhFOYn0nRcugPJM03r447w","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"988"}}
+{"RestaurantID":"FKLNX5j_byvdkliG0-ygCA","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"989"}}
+{"RestaurantID":"pcv2fcl31M8e4hxT8PkV1w","Cuisine":"bbq"}
+{"index" : { "_index":"indexnew","_id":"990"}}
+{"RestaurantID":"FXgSgiLg6xgOO8zrG51mzg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"991"}}
+{"RestaurantID":"LWHHNai3yu6ovrf4Bcepjg","Cuisine":"foodtrucks"}
+{"index" : { "_index":"indexnew","_id":"992"}}
+{"RestaurantID":"DA1hijID0q6D6Ouch17v7w","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"993"}}
+{"RestaurantID":"U6QXIbz1dly_3nzgfnHB4w","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"994"}}
+{"RestaurantID":"Pe4cQ65ZJ9qS8JQZVkJz4g","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"995"}}
+{"RestaurantID":"cHvd_fnNqbcR4EdyodzGzw","Cuisine":"austrian"}
+{"index" : { "_index":"indexnew","_id":"996"}}
+{"RestaurantID":"nOjGNqPcu5jHRRElOndQqQ","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"997"}}
+{"RestaurantID":"IIpt3akG5MhWg62O-7vHEw","Cuisine":"divebars"}
+{"index" : { "_index":"indexnew","_id":"998"}}
+{"RestaurantID":"RYKGs45OjF-vlb2Ds2Jb_g","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"999"}}
+{"RestaurantID":"U_JIkNwSc-J-tu_E8iztyg","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"1000"}}
+{"RestaurantID":"UM3DuPsG6UKdmsC23O_Icw","Cuisine":"scandinavian"}
+{"index" : { "_index":"indexnew","_id":"1001"}}
+{"RestaurantID":"Wc_vQmkP7tb8eQQfwd39Qw","Cuisine":"hainan"}
+{"index" : { "_index":"indexnew","_id":"1002"}}
+{"RestaurantID":"7Q68kpPS6okcC8Kkw7g42A","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"1003"}}
+{"RestaurantID":"pk89jzL1RsE9U0thf_z6tw","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1004"}}
+{"RestaurantID":"1EBmj80AaGrmDOCiUzwb4A","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"1005"}}
+{"RestaurantID":"MwyEUg5EXuqTf1mjKU08ng","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"1006"}}
+{"RestaurantID":"Pcpcv2T9OJiYXAeFr-026w","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"1007"}}
+{"RestaurantID":"kxykwx5qTWBhlMh18MQ82Q","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"1008"}}
+{"RestaurantID":"jzQNE09rRKz8Ou-bEdEY1Q","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"1009"}}
+{"RestaurantID":"L9SuMN3UsGipopWOe3pr9w","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"1010"}}
+{"RestaurantID":"I6v7Tmb6kHS4P3ioT_xEhA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1011"}}
+{"RestaurantID":"DjLxykRuP8OFtGtPPZpfdQ","Cuisine":"latin"}
+{"index" : { "_index":"indexnew","_id":"1012"}}
+{"RestaurantID":"WRPJeH3goSpj5ke3Pkrnfw","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"1013"}}
+{"RestaurantID":"XsXLVWr1UZWVhKThNvNiaA","Cuisine":"szechuan"}
+{"index" : { "_index":"indexnew","_id":"1014"}}
+{"RestaurantID":"ErJ0cbHUxOozl0sz_3wl5A","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"1015"}}
+{"RestaurantID":"fJXCMGOhaS6rKGjoGldSSQ","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"1016"}}
+{"RestaurantID":"0AoaUlXkQOlalpA3v-Ivqw","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"1017"}}
+{"RestaurantID":"XPbcjRWxumT4ZQr-7uqOAw","Cuisine":"tacos"}
+{"index" : { "_index":"indexnew","_id":"1018"}}
+{"RestaurantID":"_7jEITBmNIMD73_ni89MaQ","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"1019"}}
+{"RestaurantID":"9kCcNKe7z9GZFU3NhkoExA","Cuisine":"bars"}
+{"index" : { "_index":"indexnew","_id":"1020"}}
+{"RestaurantID":"SMrj71bWo1lomSbU8wXgyw","Cuisine":"hotpot"}
+{"index" : { "_index":"indexnew","_id":"1021"}}
+{"RestaurantID":"AImhpHnwq_1qJeopUzdohA","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"1022"}}
+{"RestaurantID":"fH8DkdRerw5LJ7fZZHRfeA","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1023"}}
+{"RestaurantID":"Qx01ny6b5PIBJlvI5mhjCA","Cuisine":"mediterranean"}
+{"index" : { "_index":"indexnew","_id":"1024"}}
+{"RestaurantID":"KDGGpWef9LkYk79oVCiqfg","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"1025"}}
+{"RestaurantID":"ExvoimQ4LzY3UWtZ6m6Lgw","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"1026"}}
+{"RestaurantID":"_F29-1dkiBmDPSaKQ9_O0Q","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"1027"}}
+{"RestaurantID":"4j_n7nPaZrp6_lEInZaA8Q","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1028"}}
+{"RestaurantID":"xkvv0n7jbl4Ra3Vm_jfxaA","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1029"}}
+{"RestaurantID":"56Uc2Wrqll0Ah5JYDel19Q","Cuisine":"french"}
+{"index" : { "_index":"indexnew","_id":"1030"}}
+{"RestaurantID":"eMpavS8etouI-D2SrmfyRg","Cuisine":"bbq"}
+{"index" : { "_index":"indexnew","_id":"1031"}}
+{"RestaurantID":"3y_-DwmoM198umnZHSOmKQ","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"1032"}}
+{"RestaurantID":"P9x0uX9nmPCph1mWM3k4vg","Cuisine":"cocktailbars"}
+{"index" : { "_index":"indexnew","_id":"1033"}}
+{"RestaurantID":"RqnPXUsRyFShLA5zhSQKFg","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1034"}}
+{"RestaurantID":"SWRz34fmNEDPcrngJMMo7Q","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"1035"}}
+{"RestaurantID":"0fjab0vzFgIQ-FKzjFR7JQ","Cuisine":"thai"}
+{"index" : { "_index":"indexnew","_id":"1036"}}
+{"RestaurantID":"L7_MTRZyYp_i-cnH2CU4zQ","Cuisine":"cafes"}
+{"index" : { "_index":"indexnew","_id":"1037"}}
+{"RestaurantID":"OsA5iRphHwPlYNhdddvBng","Cuisine":"wine_bars"}
+{"index" : { "_index":"indexnew","_id":"1038"}}
+{"RestaurantID":"lGR8ipy2bV6oO-cfrTIa0Q","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1039"}}
+{"RestaurantID":"uFER2lJGTXc_vcwRFE8j6Q","Cuisine":"food_court"}
+{"index" : { "_index":"indexnew","_id":"1040"}}
+{"RestaurantID":"ADSa2wvsmHeU4a2g5a6tQQ","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1041"}}
+{"RestaurantID":"T1r3CMfoIDQf56FRZsU31w","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1042"}}
+{"RestaurantID":"bnDfFdiCcPzhuNWUJORvLQ","Cuisine":"chinese"}
+{"index" : { "_index":"indexnew","_id":"1043"}}
+{"RestaurantID":"KEyhIMAUpj7cceOvG9C1sA","Cuisine":"coffee"}
+{"index" : { "_index":"indexnew","_id":"1044"}}
+{"RestaurantID":"7U-XPpdrYDk-H5_M-Lfy3Q","Cuisine":"newamerican"}
+{"index" : { "_index":"indexnew","_id":"1045"}}
+{"RestaurantID":"sCNZGN2Zh1T5hht728hV5Q","Cuisine":"newmexican"}
+{"index" : { "_index":"indexnew","_id":"1046"}}
+{"RestaurantID":"i38R1KxL99JoG-Ns7FyyGw","Cuisine":"mideastern"}
+{"index" : { "_index":"indexnew","_id":"1047"}}
+{"RestaurantID":"KCBfW6sWl9Gx-LvMff08jg","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1048"}}
+{"RestaurantID":"tmlhfk-KxdNB2Pbjpqmd_Q","Cuisine":"tapas"}
+{"index" : { "_index":"indexnew","_id":"1049"}}
+{"RestaurantID":"wwYJlPAg4_DV_DihANcuOw","Cuisine":"bakeries"}
+{"index" : { "_index":"indexnew","_id":"1050"}}
+{"RestaurantID":"iGmQlzlI4g2ky8cogfDpnQ","Cuisine":"sushi"}
+{"index" : { "_index":"indexnew","_id":"1051"}}
+{"RestaurantID":"z5EpI39omxW6aK_X2uHi8A","Cuisine":"seafood"}
+{"index" : { "_index":"indexnew","_id":"1052"}}
+{"RestaurantID":"za9mYaRVWkwKkQfjRgvU0g","Cuisine":"taiwanese"}
+{"index" : { "_index":"indexnew","_id":"1053"}}
+{"RestaurantID":"gWE6WkBoC46dIRSMygHoPg","Cuisine":"venezuelan"}
+{"index" : { "_index":"indexnew","_id":"1054"}}
+{"RestaurantID":"1C4mKNb8T4UNd1v5MBO1Hg","Cuisine":"peruvian"}
+{"index" : { "_index":"indexnew","_id":"1055"}}
+{"RestaurantID":"KHRrlw05_pv_fd8ntvS1xw","Cuisine":"japanese"}
+{"index" : { "_index":"indexnew","_id":"1056"}}
+{"RestaurantID":"8XHbZIKDQbXhyKIGiukVeQ","Cuisine":"steak"}
+{"index" : { "_index":"indexnew","_id":"1057"}}
+{"RestaurantID":"_Pz5L7DGORcaThGB4CWcfg","Cuisine":"mexican"}
+{"index" : { "_index":"indexnew","_id":"1058"}}
+{"RestaurantID":"AUifp6IDKzmorCM6vY2fug","Cuisine":"italian"}
+{"index" : { "_index":"indexnew","_id":"1059"}}
+{"RestaurantID":"jzvHGkDUIQkcz8CZM_Je_g","Cuisine":"pizza"}
+{"index" : { "_index":"indexnew","_id":"1060"}}
+{"RestaurantID":"nD7Hcq5aaCASbWzc0-Sg3A","Cuisine":"southern"}
+{"index" : { "_index":"indexnew","_id":"1061"}}
+{"RestaurantID":"0U9uW93o9DUnAP7r-76LVg","Cuisine":"korean"}
+{"index" : { "_index":"indexnew","_id":"1062"}}
+{"RestaurantID":"WKDdD8Z17-P1XhkyJtDEFA","Cuisine":"breakfast_brunch"}
